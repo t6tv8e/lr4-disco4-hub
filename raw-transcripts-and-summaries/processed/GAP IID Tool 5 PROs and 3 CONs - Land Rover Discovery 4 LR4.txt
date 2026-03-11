@@ -1,0 +1,217 @@
+Title: GAP IID Tool: 5 PROs and 3 CONs - Land Rover Discovery 4 LR4
+Source: https://www.youtube.com/watch?v=3PMxmnK_0SY
+Date: 3/11/2026
+Method: innertube
+
+so hello everybody and welcome to not that kind of 
+a channel my name is peter and today is all about the gap id tool and five things why i love the 
+gap id tool and three why i don't so um the first step we need to do is uh we need to plug our car 
+to our charger because i won't start up the car so yeah it's more practical if you get your 
+car connected to a charger so you have time and you don't have to think about uh oh my 
+battery is getting low and stuff like that um the next step is i will open the hood and 
+i will plug the car in so let's go let's get the charger um the charger is from seedtech i 
+think it's a swedish product um i really love the charger because with this one you can 
+also recount your battery uh which means that you can restore your battery and get more 
+power out of it yeah that's a really cool thing i will link the the charger 
+in the description below um so this one is the charger it has also an 
+agm mode which you'll need when you have a start stop automatic in your car but this 
+one doesn't have one so we're opening the hood and in my case i have installed on this plug 
+here so i don't have to open the cover all the time when i want to plug my car in uh yeah 
+it's really practically cost a few euros so i would recommend if you install this on your car 
+so the next step we have to do is um we have to get our charger and what's really important is um 
+that you always when you connect your charger to your car you plug in the charger or this charger 
+first and then plug the the power cable in so do this and here on this especially on this charger 
+you have some settings you can charge your motorcycle or your car and this means um because 
+there is an agm battery installed even if the car hasn't a start stop automatic there is 
+the battery installed and now i will do the recon this means it will restore your battery so now 
+the car is plugged in and let's change into the car and i will show you uh why i love the aid tool 
+and yeah and i will give you a small walk through through the iid tool so let's go so welcome back 
+in the car um the first thing where i really love the id tool is you save a lot of money and by a 
+lot of money i mean really a lot of money because when you when you have to buy a new key like it 
+was in my case um we bought the car with only one key uh the key with the programming will 
+cost you 450 euros at the land rover dealer and i think that's a really really much and the 
+second thing is um if you if you want to calibrate your air suspension or something like that you 
+have to pay also 200 euro for just 10 minutes or so i will link you the video uh above there 
+so you can see how easily it is to calibrate um the suspension and the next thing is um to delete 
+one error you pay 70 to 100 euros at land rover yeah and that's i mean okay for for 10 minutes 
+or something like that that's that's that's very much uh and so i i think yeah and the the id tool 
+is not not that cheap i know it's cost you about 470 euros so yeah but if you calculate um those 
+things together which i i uh tell you before then you see um yeah you will you you will 
+get the money really back quickly and yeah the second thing where i love the id tool is um 
+that is really handy and and you don't need to carry a laptop with you um so that you can do 
+all your diagnostic stuff or deleting for it or something like that you all you have only this 
+just give me a second you got it in my glove box um you only have this small id tool here 
+so if you never have seen this this is this which you connect to your obd2 board and yeah 
+you only need the app and your smartphone and that's it so um the third thing why i really love 
+the id2 is that the support of the gap id tool or the support is really it's really fast and yeah 
+it's it's it's outstanding i think and because i had uh the problem to add another key on our car 
+and um i wrote them hey guys i got a problem and yeah they told me uh they told me um yeah please 
+give us the ecu information from the car i sent them and one hour later i get back an update for 
+the iid tool uh especially for my car and then i was able to add a new key yeah that's really cool 
+i don't think you'll find this often in this time so yeah i can really really recommend this support 
+the fourth reason uh why i love the id tool is um you can um you you not only can read false or 
+delete forge or stuff like that or diagnostic your car um you can also program your car so 
+which means um if your car comes without the rear view camera or stuff like that you can add a new 
+camera so you have only have to activate this in the iid tool for your car uh you don't have to 
+program this so um yeah and uh as i saw on on on youtube um there were some guys who had the pedal 
+shift because the car didn't have pedal shift and they won't and they would really like to have one 
+so they added the pedal shift and installed them and then they only activated in the uh they 
+only activated the the pedal shift in the id tool yeah and it was working so that's really cool 
+the fifth reason why i also love the id2 is um you can plug the id2 to a lot of cars from 2004 
+until now uh but i have to say um the new cars like i think from from 2017 onwards 
+they are not fully supported but as i read in the gap news they're always adding 
+some new stuff and and with updates um you're getting even more support so yeah that's that's 
+another cool thing um and now i will come to the three things i i didn't like that much um 
+because yeah i think uh some things could be they they could do some things better and 
+so um the first thing was uh when i heard the price so 470 euros pool that's that's a lot 
+um before i had the icarsoff tool um and this one costs me 120 euros but i have to say though 
+the only thing you can you could do with this is you can do with this is deleting errors or adding 
+a new battery if you have to change this the next thing is um you you pay 470 euros for this 
+tool and then if you if you have another car um you have to pay another license to get fully 
+support uh for this car i have to say um you have to uh you you're always able to uh read 
+false and delete fords uh but but programming stuff is disabled for a second car so you have 
+to get a new license for 70 euros and yeah then you have full support for your second car and i 
+think that's a bit pricey and another thing is why i'm not surprised why i don't like this 
+tool so much is um there are some as i said before you can program stuff and and and do some 
+updates and everything but um you have to pay you have to pay for ecu updates so not for 
+all i have to say but for the most of them and one update um will cost you 30 euros so i think 
+so i don't know i think there there are about um 20 or or 20 20 ecu's which which or 26 is used 
+which you get listed in there and and only a few you can update for free and for all other you have 
+to pay 30 euros per update so yeah that's not so cool i think but let's stop talking and now i will 
+show you uh i will give you a short walkthrough the iid tool yeah so have a look and let's go uh 
+for all of you who don't know where i do the iid tool is connected it's it's um down the steering 
+here um i will show you this in in my other videos um like here where i add my new key or here where 
+i uh do the calibration of the air suspension so i will plug the iid tool in so the first 
+thing we have to do is we um turn on our ignition at the car um and then we will start 
+um the gap id in control apps so that's good um then we will search we already plugged the 
+id tool in and then we were searching for two and yes so the tool is found um so and let's uh start 
+it uh we're starting with reading some folds so the car will automatic at the car the the iid 
+tool will automatically read all your faults and show it to you so um okay i have two faults here 
+and this is the on the driver's side and on the passenger side and these are my led blinkers so um 
+they don't have the right resistance and so they have the car say oh there is a short circuit um 
+yeah please check these um but i can i can tell you uh both of them are doing the job well so um 
+i think it's it's not a problem maybe i will add a resistance so i don't get this error in the 
+iid tool um yeah the next thing is we can clear all false but um at the moment i think uh when we 
+clear these faults um the the fault is gone but next time i turn on a blinker um the fault will be 
+back so yeah but this is how easy you can read and clear for so okay it's it's scanning the modules 
+again um because now i don't have any error okay let's go back to the menu so we have there another 
+option which is hey adjust um the hate adjust is um you can do uh with iid tool you can permanently 
+set your your riding hate so yeah that's a that's a really cool thing especially uh when 
+you go on ferries so you can lower down your car uh to the i think to from the from the entry 
+height uh lower it down to two and a half or three centimeters so uh you have to take 
+care of your wheels and your wheel housing so yeah um and also you can you can lift your car so yeah uh let's go back to another one and this 
+is the hate control the hate control is is is um is like your your your control your hey 
+control buttons um on your on your car so yeah uh at the moment i think it's it's trying to get 
+in the in the middle position okay uh yeah that's what this is then you have the calibration and 
+this is one what i really love because as i told you before um there is this point rlm suspension 
+and this one uh this one is for calibrating your air suspension i will open up the the point oh i'm 
+sorry this was the wrong one on the rm suspension so there you have two options uh you have the 
+manual calibration or the guided collaboration and the manual calibration um you have to know 
+a few things more and you have to calculate this on your own but in the guide in the guided 
+calibration uh the the app leads you through the calibration around all four corners and it's 
+really great um i will show you this in my video up here so you can follow them easily it's really 
+cool um so and other stuff you can do within the menu is you can you can adjust your abs brake you 
+can calibrate your headlamps and stuff like that it's it's really cool so um the next thing is the 
+service test um the service test um there you can do a lot of things you can you can test your 
+your uh auxiliary heater you can test your abs brake module your instrument pack the engine and 
+then there there is a lot of thing you can you can do with um but i highly recommend um only do this 
+when you know what you're doing so it's like okay um the live values the live values uh will show 
+you uh what is actually going on at your car so um we open up what let's go we take what 
+uh let's have a look maybe we see okay at the moment we we don't see anything uh because 
+uh for live values uh you have to you have to start up your engine but let's have a look 
+maybe i'll find something we can see now it will show you all the ecu's so maybe we'll 
+see currently okay we have one uh live value i think we can show you so you have to um you 
+have to click them and then see the compressor model again in the calibration millimeters so 
+terrain mode we can activate and then we say trigger oh i'm sorry i'm not triggering a wheel 
+so and now we see um the the currently pressure we can see the the temperature of the compressor yeah 
+we can record it we can get it in the graph or stuff like that that's really cool so um the next 
+thing or the next menu point is the control i o uh i have to say i don't i really don't know what 
+what's going on in here because i never use this so i will switch to the next point and 
+this is what i what i meant before um this one is um what i said uh this is for the ecu 
+so this is really uh all your ecu's were listed in here so i'll show you this let's go to the we're 
+going to the body control system so um and here you see uh which battery is installed um which 
+high beams are fitted and then and here you can deactivate or activate stuff so uh but i have 
+to say be careful and don't uh and do not activate or deactivate things which you don't 
+know which effect it will have to your car so yeah be careful and and only do things you 
+know so as you can see here is i think the the info screen you can add you can enable 
+or disable the info screen on your car yeah there's a camera as i said before um you can 
+say if if the camera is fitted or not so you only need to install the camera if you don't have any 
+and then press uh the camera is fitted and the ecu will be updated and yeah from then on you get your 
+rear view camera okay so and what i also have to say the next thing is the ecu flash so this is 
+where you can add your key i will abort this um there you can also change your compressor if 
+you have to change your compressor because it's damaged or something like 
+that then there are the ecu infos now all ecu's will be scanned 
+so we have to wait a few seconds so as i said before um now we're in the ecu 
+infos and this is the point uh where where it's where i said before you have to pay for your ecu 
+updates so as you can see on the screen uh some some updates or is this the abs mode some updates 
+were for free and for some you have to pay so maybe i find someone which you can update okay yes but if you want to to update some of your 
+ecu's you have to um to the gap id shop and then choose from their shop which ecu 
+want to update and they will get you a file which you get on your on your iid tool 
+and yeah and then you can update your ecu so um okay and now we have another point and this 
+is the safe and restore point this one is really important um because uh before you do stuff on 
+your car or programming stuff on your car please always save your settings so in the case of a fold 
+you can restore it and yeah you're safe and you don't have a real big brick which you can't move 
+anymore or stuff like that so yeah i would really really recommend do this um and the next and the 
+last point is the id config um this is not not that important or that interesting because um you 
+can only uh you can tell the iid tool or the id app what what is displayed so here you see um 
+the ignition is on and the 12.5 volts so yeah i don't think that's it's pre-unlocked tool 
+okay and find ecu's uses scanning for easy use so guys this is it with my small 
+walkthrough on the iid tool and what you can do with it please let me know 
+in the comments down below what you already did with iid tool and how it helps you maybe cleaning 
+forts or finding some faults or errors on your car uh it would be really nice if you tell me what you 
+already did and maybe you can tell me some things i did i didn't know until now so yeah i will be 
+really i would really appreciate uh if you do this um and yeah if you like the video please give me 
+a thumb and if you want to see more from that kind of content please subscribe to my channel so guys 
+have a nice sunday drive safe and have fun bye bye
+
+--- Summary ---
+
+## Gap iD Tool Review: 5 Reasons to Love It, 3 Reasons It Falls Short
+
+*TLDR: A Land Rover owner walks through the Gap iD Tool's key features, pricing, and real-world use cases, offering an honest breakdown of its strengths and weaknesses for DIY diagnostics and programming.*
+
+---
+
+### 💰 Why the Gap iD Tool Saves Money
+
+- **Key programming cost**: A Land Rover dealer charges **€450** to program a new key; the iD Tool handles this independently after a one-hour support-assisted update.
+- **Air suspension calibration**: Dealers charge ~**€200 for ~10 minutes** of work; the iD Tool guides you through the full process yourself.
+- **Fault deletion**: Dealers charge **€70–€100 per visit** just to clear error codes — a task that takes seconds with the iD Tool.
+- **Break-even math**: The tool costs **€470 upfront**, but a single key programming + one suspension calibration already pays it off.
+
+---
+
+### ✅ 5 Things to Love About the Gap iD Tool
+
+- **Cost savings**: Eliminates routine dealer charges for diagnostics, fault clearing, calibration, and programming (detailed above).
+- **Portability**: The tool is a small OBD2 dongle — no laptop needed. Pairs with a smartphone app, fits in a glove box.
+- **Outstanding customer support**: A reported **one-hour turnaround** for a custom ECU update specific to the reviewer's car model — rare in this space.
+- **Vehicle programming capability**: Can activate hidden features (e.g., rear-view camera, paddle shifters) by enabling them in the ECU — no dealer coding required.
+- **Broad vehicle compatibility**: Supports cars from **2004 to present**; newer vehicles (post-2017) have partial support with ongoing updates being added regularly.
+
+---
+
+### ❌ 3 Drawbacks to Be Aware Of
+
+- **High upfront cost**: At **€470**, it's significantly more expensive than basic OBD tools (e.g., the iCarsoft alternative costs ~€120, though it only reads/clears faults and handles battery registration).
+- **Per-car licensing**: The base price covers one vehicle. A **second car requires an additional €70 license** to unlock full programming features (fault reading/clearing still works without it).
+- **Paid ECU updates**: Out of approximately **20–26 ECUs** listed in the tool, only a few can be updated for free. Most cost **€30 per ECU update**, which adds up quickly.
+
+---
+
+### 🔧 Key Features Demonstrated in the Walkthrough
+
+- **Fault reading & clearing**: Instantly scans all modules and lists active faults; reviewer's LED blinker resistance mismatch was flagged as a circuit error.
+- **Height adjust**: Permanently set ride height; useful for lowering the car **2.5–3 cm** when loading onto ferries.
+- **Air suspension calibration**: Guided mode walks you through all four corners step-by-step — no manual calculations needed.
+- **Service test menu**: Can trigger tests for ABS module, auxiliary heater, instrument pack, and engine — caution advised unless you know what each test does.
+- **Live values**: Displays real-time sensor data (e.g., compressor pressure, temperature) with graphing and recording capability when the engine is running.
+- **ECU configuration**: Toggle features on/off per ECU (e.g., enable rear camera, enable info screen); requires care — only change settings you understand.
+- **ECU flash / key programming**: Used to add new keys or swap components like a compressor.
+- **Save & restore**: **Always save your configuration before making changes** — allows full rollback if something goes wrong and prevents bricking the vehicle.
+
+---
+
+### 💡 Bottom Line
+
+The Gap iD Tool is a **powerful, dealer-grade diagnostic and programming device** that genuinely pays for itself after just one or two jobs that would otherwise require a dealership visit. However, its **€470 entry price, per-vehicle licensing fees, and paid ECU updates** make it best suited for enthusiasts who own older Land Rovers (pre-2017) and plan to use it regularly. Casual users or those with a single modern vehicle may struggle to justify the cost.

@@ -1,0 +1,140 @@
+Title: Calibrate Air Suspension in 10 Minutes on a Land Rover LR 4 / Discovery 4 using the GAP IID Tool
+Source: https://www.youtube.com/watch?v=N-diLoNOBsQ
+Date: 3/11/2026
+Method: innertube
+
+hello everybody and welcome to notthatkindofachannel in this episode i will show you how to calibrate your air suspension on your land rover 
+discovery 4 with your GAP IID tool the GAP IID tool is a famous aftermarket tool from gap diagnostic 
+so why you should use this tool is because when you go to your land rover dealer and you let 
+them delete an error you pay 100 euro just for deleting an error if you go to them and say hey 
+guys can you please calibrate my air suspension they will charge you about 200 euros and if you go 
+for a new key and say hey guys may you can add some new key there is a yes we can but 
+you have to pay 450 euros and that's crazy and as I said before this tool costs 550 euros 
+and it's worth the price and by two errors or adding a new key and doing a calibration 
+on your car you already got the price pack which you paid before so yes it's worth the money 
+yes as i said before so what do we need to do to calibrate our air suspension the first thing 
+is you need you need a flat surface where you can put your car on it should be nearly flat it's 
+it's not it's not needed to be perfectly flat but it should be flat then you need for easy 
+measuring you should have a painter tape and a measuring tape so what do we do with 
+the painter tape we divide the rim in half and attach a small piece of this in the in the middle 
+and then we measure from the middle of the wheel up to the edge to the to the lower edge of 
+the wheel housing so it's easy to measure it when you when you divide the rim in half so the 
+next step we have to do is we have to put the car in standard height mode if you have 
+installed a module like the xlifter or the module from mud tech like i did 
+in my car you have to set them to default if you have not enough air in your air suspension 
+or in your air suspension tank you need to start up the car i will also recommend this if your 
+battery is low or has a low voltage so yes so the first step as i said is i 
+will get the tape divides the rim so the rim has 52 centimetres so the half is 26. what you say here okay so 
+we now get the piece of tape and what you need to do is 
+try to align it horizontally nearly horizontally so not like this but it's not that easy 26 okay okay so and this 
+we will do on all four rims so that's it for the first part on the second 
+part is we will connect our iid tool to our obd2 port in our car this one 
+you'll find above the brake it's here i don't know if you can see it but it's here so 
+maybe you can see when i'm i'm gonna plug it in so and then we will start up the car in our case we turn on the ignition so let's get out and what you should do you should open your 
+windows because this is a bluetooth tool and to have a safe connection um so the next step 
+uh we need to do is we need to start up our app if you haven't installed the app already you 
+should download it from the google play store or from the ios app store it's free it will cost 
+you nothing and then we will connect it with the bluetooth iid tool so for a better 
+view i will record my screen so i'll put them then on the video or on the side of the video okay 
+let's start so so we already found the two the next step we're going to do is in the menu 
+there is a menu point with calibration you click on that then you find a point with RLM Suspension 
+you always click on that and there you have two options you have the manual calibration or 
+the guided calibration we choose the guided calibration because it's a lot easier 
+you don't have to uh you don't have to know the measurement height or something like that 
+the tool will do it for you you will only need to measure as i said before the from the middle of 
+the rim up to the to the lower edge of the wheel housing corner so let's get it started okay oh i 
+see the car is off just let me turn it on again so now it's getting a little bit louder than 
+before so um the next step we have to do is as i said before uh the tool will calibrate all 
+four corners on your card so if only one corner is down you have to recalibrate all four corners so 
+we start in the front on the front left side go then to the right front side go back to the right 
+back side and then right to the left back side so um maybe i'll show you this here shortly um the 
+only thing you have to do is measure the height of millimetres and then if it matches or not 
+matches your your height you have to push the up or down button and that's it and then measure 
+it again and if it and if it fits you're done so okay this one is perfect it's 466 millimeters 
+so then you have to press the next button um to get the right front 
+wheel that we measure this okay as you can see here it's uh it's about 
+two mils too high so we press the down button and the car will lower the front slide one and 
+yes now it's perfect now it's 466 millimeters so um do not forget press the next 
+button so we change to the back right one on this side i have to say um on the back 
+side you don't have 466 millimeters from the middle of the wheelbase up to 
+the lower edge of the wheel housing on the back side you have 
+458 millimeters so let's see okay as you can see here we have one 
+centimeter too much so we have to lower it down so i press the down button maybe 
+you can see how it goes down yep so measure it again perfect next one so i press the next button 
+and now let's have a look okay it's also a half centimetre too high so i press it 
+okay measure it again yes perfect so and that was the last that was the last step and then i press 
+next and then i press apply and when i apply this it will store my settings and the only thing 
+i have to do is um yes operation succeeded the only thing i have to do is i have 
+to lower or lift up the air suspension so you can see it blinks there so i will 
+lower it down now the air suspension goes down oh i'm sorry i have to close the door i need 
+to lower down so and now the car is set and the air suspension is calibrated so the calibration of 
+our land rover discovery 4 is done and you saw how easy it is to do this on your own you only have 
+to press some buttons and measure it and that's it and as i said before the handlebar will charge 
+you for this for this few minutes 200 euro minimum i called them and they said uh yes 
+it's a minimum of 200 euros but maybe you have to pay more for what for 10 
+minutes of their work yeah come on so um as i said before i highly recommend the 
+gap id tool so you can do stuff on your own um and if you find this video helpful i would 
+really appreciate if you give me a like and if you want to see more of this or of our 
+land rover this come before and the projects i will do with this car subscribe a small preview 
+uh the next thing i will do is um to get the air this this wheels don't have an air pressure 
+control system or tire pressure control system and i called land rover and said hey guys 
+uh what you uh what do you charge me uh for getting all four wheels uh set up for the tire 
+pressure control system and they said oh okay 400 euro only for the measure for the sensors without 
+work or something like that so then i started uh i opened google i was searching aftermarket 
+sensors ordered them they will cost you 70 euros and you can install them on your own 
+but this i will show you in another video now stuff i will do is to see here my rock sliders 
+are very rusty they need a new coat of paint um yes and i will show you this in in 
+another video so uh hope as i said before you liked it and if you do so like it or 
+subscribe and have a nice day bye guys you
+
+--- Summary ---
+
+## How to Calibrate Air Suspension on a Land Rover Discovery 4 Using the GAP IID Tool
+
+*TLDR: You can calibrate your Land Rover Discovery 4's air suspension at home in ~10 minutes using the GAP IID tool, saving at least €200 compared to dealership prices.*
+
+---
+
+### 💰 Cost Comparison: DIY vs. Dealership
+
+- **Dealership pricing is steep**: Deleting an error code costs ~**€100**, air suspension calibration costs ~**€200 minimum**, and adding a new key costs ~**€450**.
+- **GAP IID tool costs €550** but pays for itself after just two dealer visits' worth of work (e.g., one calibration + one key programming).
+- **Aftermarket alternatives exist for other jobs too**: Tire pressure sensor setup quoted at **€400 by Land Rover** for sensors alone; aftermarket sensors cost only **€70**.
+
+---
+
+### 🛠️ What You Need Before Starting
+
+- **Flat surface** to park the car (doesn't need to be perfectly level, but close).
+- **Painter's tape and a measuring tape** to mark the center of each rim for consistent height measurements.
+- **GAP IID Bluetooth OBD2 tool** plugged into the OBD2 port (located above the brake pedal).
+- **Car at standard ride height**: If you have a lift module (e.g., XLifter or Mud Tech module), set it to default first.
+- **Sufficient air pressure** in the suspension tank and adequate battery voltage — start the engine if either is low.
+- **Windows open** for a stable Bluetooth connection between the tool and your phone.
+
+---
+
+### 📐 Measurement Setup
+
+- Divide each rim in half (**rim diameter = 52 cm → half = 26 cm**) and apply a horizontal strip of painter's tape at the midpoint.
+- Measure from the **center of the wheel (tape mark) to the lower edge of the wheel arch** on all four corners.
+- **Target heights**:
+  - **Front wheels**: **466 mm**
+  - **Rear wheels**: **458 mm**
+
+---
+
+### 📱 Step-by-Step Calibration Process
+
+1. **Connect** the GAP IID tool to the OBD2 port and pair it via Bluetooth using the free app (available on Google Play / iOS App Store).
+2. In the app, navigate: **Menu → Calibration → RLM Suspension → Guided Calibration** (easier than manual — no need to know target heights in advance).
+3. The tool walks you through **all four corners in sequence**: Front Left → Front Right → Rear Right → Rear Left.
+4. For each corner, **measure the height**, then use the **up/down buttons** in the app to raise or lower that corner until it matches the target.
+5. Once all four corners are set, press **Next → Apply** to save the settings.
+6. Finally, **cycle the suspension** (lower it down) to complete the calibration — confirmed by a "Operation Succeeded" message.
+
+---
+
+### 💡 Bottom Line
+
+A task that costs **€200+ at a Land Rover dealership and takes a technician ~10 minutes** can be done at home with basic tools and the **€550 GAP IID tool**. The tool recoup its cost quickly for any Discovery 4 owner who performs more than a couple of these procedures, making it a worthwhile investment for DIY Land Rover maintenance.

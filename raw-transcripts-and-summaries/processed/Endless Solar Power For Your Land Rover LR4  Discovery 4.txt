@@ -1,0 +1,136 @@
+Title: Endless Solar Power For Your Land Rover LR4 / Discovery 4
+Source: https://www.youtube.com/watch?v=XK-nCs_taOY
+Date: 3/11/2026
+Method: innertube
+
+hey everybody and welcome back to 
+notthatkindofachannel my name is Peter and in today's video is all about the Lensun solar 
+hood panel as I said in my last video I will give you in this video a short walkthrough I will show 
+you the app I will show you uh how much power this one is producing and how I did the installation 
+of this another Land Rover Discovery 4. [Music] if you haven't seen my installation video then 
+please check out the link over here and yeah there you can see how we installed this what I have to 
+say about solar panel is it's a 110 watt panel so maximum outcome is 110 watt I don't think you 
+will reach this when you have mounted this on your hood because it's the best case you will get this 
+110 Watts out so in the direct sun I got over 70. I have to say I tried it out before I get it on 
+and if you move the panel up and you get it in a 45 degree position over 100 so I think it's pretty 
+good then the app told me already it has charged my battery two times so what I think is very cool 
+I have this one in use since I think two weeks or so and I have to say uh it wasn't very sunny here 
+and I haven't my car out here because most of the time when it's at home it stays in the carport so 
+there's no directly sun or something like that I only tried it once on one day I put it out and 
+to see how much power it produces but then it went cloudy and so yeah the problem was I couldn't 
+figure out so the next step I will do I will open up the hood and I'll show you the installation of 
+the cables so for that I get all the covers off it's much easier for you to 
+see where you can install this as you maybe have noticed there's a cable 
+from the hood going down and what I did is with the installation kit they're coming such a 
+3M I think this is so Cable Mount things I don't know how they how they record and here you can 
+fix your power cable with a cable tie and then I'm running this down here so through this foam 
+and then in and as you can see here here is my uh charging converter I mounted this one with 
+the 3M tape and this one never gets off I think then here uh I packed them up to get a bundle and 
+position it near my OEM plus this one is for my additional headlights I run the minus cable here 
+and also with the carry here through and if you want there are two Mass points down here you can 
+see but I fought them there are too many carriers on it and so uh I did the mass Point here on the 
+outside of the car I did it the same on the on the other side for the charging connector so the next 
+step is my plus keyword I took my plus cable and I get it under the ceiling here going over here and 
+then uh come out here so also stitched it to this holder here the cable tie run the cable through 
+this one as you can see here and then get the fuse in the front of the of the battery and so it's 
+covered also in here and no dirt will get on it so as I said before uh now we're on 
+the app or on the phone and I will show you what you can do uh with the app 
+uh to download the app you need to find the solar Life app it's free you don't have to pay 
+anything and the cool thing is you don't need to register or log in or sign up or do anything like 
+that so as you can see I get into the solar life app and then it's searching for Bluetooth devices 
+nearby and as you may already see I have the PV Discovery 4 here so I renamed it already 
+and I set it up so that it really works well okay so let's go into it and there you can 
+see your main screen there you can see uh what currently is going on in my case here 
+it's charging uh with 36.7 Watts with 1.4 amps and with about 26.2 volts what I have to say is 
+today it's cloudy it's not uh it's it's a little bit Dusty and so yeah you can see we have 36.8 
+the best thing I had here uh if I haven't said it before I got 70 Watts only standing here in 
+the Sun and yeah I think that's really cool so what you have to do uh is you have to set up your 
+system when you plugged it in don't worry there will be no problem if you if you haven't done it 
+before so the simple thing is you have to set up your battery for this you go to param settings and 
+then you have your device param and your battery param and here in the better repair them you 
+can already see there is an I said it up to AGM because I got an AGM battery in here if you have 
+any other batteries or if you have an auxiliary battery which is I think in the most cases lithium 
+ionan uh battery you can change this over here so you only have to click on the battery and then you 
+can see I hope you can see this there's a li there is the liquid there's the gel or there's the AGM 
+and yeah then you can see the there are several modes uh how the the charging controller works uh 
+I set it up to 24 so it's charging all the time but there you can set up manually you can send uh 
+24 hours D to D is uh this means From Dusk to Dawn yeah and fixed hours and TLT so then when we go 
+back uh and we click on our on our PB up there so we can see how much power we produced in the 
+last days or since it is running or everything else and totally uh we generated uh 510 Watt 
+hours running days we see here are 11 and there you can see uh which uh how much power you 
+produced in the last days or in the last 11 days so here's Also the battery you can see that you 
+can monitor the battery at the moment we have 13.9 volts the temperature of the battery is 
+70 degrees 70 degrees Celsius battery status is normal charging status is charging yeah okay 
+then here's the load settings for uh what's that oh the consumption okay yeah there's there's no 
+consumption at the moment because nothing is on okay yeah and let's check back uh okay at the 
+moment there are 30 uh 29 volts here you get instructions but I don't think these are really 
+cool because this is only a screenshots from the app so yeah you can set a password you can 
+clear your historical data you can change the Bluetooth name which I did you can enter demon 
+mode and you can uh get some communication choices this is how the app looks like I think it's 
+it's really useful and as I said before it's cool because you don't need to sign up or to 
+register this is one of my of my really favorite things because nowadays you have to sign up and 
+register everywhere and and leave your data there and yeah so we're now nearly at the end of the 
+video but I have to say one thing you can also connect an auxiliary battery to this charging 
+converter so this means the charging converter charges the auxiliary battery first and then 
+it will charge the starting battery of your car so I think this solar panel is worth the money 
+because it's charging your battery all the time and you don't have to worry about if you uh if 
+you don't have enough power to start up the car and especially for Land Rovers this is really cool 
+because as you know Land Rovers they are really how should I say they don't they don't really 
+like it if you have too less power in your car because then your dash is like a Christmas tree it 
+lightened up with everything and you get those you get this error than this and yeah most of them is 
+because uh your battery is too low or your voltage of the battery is too low and so I would say this 
+isn't for my side for the moment I hope you like the video If you do so please give me some thumbs 
+and if you want to see more from that kind of content it would be really great if you subscribe 
+so guys have a nice day and see you soon bye [Music]
+
+--- Summary ---
+
+## Lensun Solar Hood Panel on Land Rover Discovery 4: Walkthrough, App & Installation Review
+
+*TLDR: A Land Rover Discovery 4 owner reviews the Lensun 110W solar hood panel, demonstrating real-world power output, cable routing, and the Solar Life app's features.*
+
+---
+
+### ⚡ Panel Performance & Real-World Output
+
+- **Rated vs. actual output**: The panel is rated at **110W**, but mounted flat on the hood it realistically produces around **70W in direct sun**; tilted to **45 degrees**, it exceeds **100W**.
+- **Cloudy/dusty conditions**: On an overcast, dusty day the panel still produced **~36–37W**, demonstrating useful output even in suboptimal conditions.
+- **Cumulative result**: After approximately **11 running days**, the system generated a total of **510 Wh** and had fully charged the battery **twice**.
+- **Carport limitation**: The car is often parked in a covered carport, significantly reducing charging opportunities and real-world totals.
+
+---
+
+### 🔧 Installation Overview
+
+- **Cable routing**: The power cable runs from the panel down through foam insulation along the hood, secured with **3M adhesive cable mounts and cable ties**.
+- **Charge controller placement**: The MPPT/charge controller is mounted inside the engine bay using **3M double-sided tape** — described as very secure.
+- **Grounding**: Earth/minus cables are connected to a **chassis ground point on the outside of the car** (avoiding overcrowded OEM ground points).
+- **Plus cable routing**: The positive cable runs under the headliner to the front, terminating with an **inline fuse near the battery** to protect the circuit.
+- **Auxiliary battery support**: The charge controller can prioritize charging an **auxiliary (e.g., lithium-ion) battery first**, then top up the starter battery.
+
+---
+
+### 📱 Solar Life App Features
+
+- **No account required**: The app is **free** and requires no registration or login — a highlighted advantage given modern data-harvesting norms.
+- **Bluetooth connectivity**: Connects wirelessly to the charge controller; devices can be **renamed** (e.g., "PV Discovery 4") for easy identification.
+- **Live monitoring**: Displays real-time **voltage (~26–29V), current (amps), and wattage** being produced.
+- **Battery configuration**: Supports multiple battery types — **liquid (flooded), gel, AGM, and lithium-ion** — configurable in the battery settings menu.
+- **Charging schedule modes**: Options include **24-hour continuous, Dusk-to-Dawn (D2D), fixed hours, and TLT mode**.
+- **Historical data**: Shows a **day-by-day power production log**, total running days, and cumulative energy generated.
+- **Battery monitoring**: Displays **battery voltage (13.9V shown), temperature (70°C shown), charge status, and load/consumption data**.
+- **Additional settings**: Includes password protection, historical data clearing, Bluetooth name change, and a demo mode.
+
+---
+
+### 🚙 Why This Matters for Land Rover Owners
+
+- **Low-voltage sensitivity**: Land Rovers are particularly prone to **dashboard warning lights and error codes when battery voltage drops too low**, making a trickle solar charger especially valuable.
+- **Always-on charging**: The panel passively maintains battery charge whenever the car is parked in the sun, eliminating the risk of a flat battery after periods of inactivity.
+- **Value verdict**: The owner considers the panel **worth the money** as a set-and-forget battery maintenance solution.
+
+---
+
+### 💡 Bottom Line
+
+This video matters because it provides a **practical, real-world assessment** of a hood-mounted solar panel beyond spec-sheet claims — showing honest output numbers, a straightforward installation approach, and a genuinely useful app with no privacy friction. For owners of **older Land Rovers or any vehicle prone to battery drain**, a solution generating **500+ Wh over 11 partial days with zero user effort** represents a compelling, low-maintenance investment.

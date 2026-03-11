@@ -1,0 +1,172 @@
+Title: Is Apple CarPlay Worth the Money? Land Rover Discovery 4 / LR 4?
+Source: https://www.youtube.com/watch?v=GknKsvNO9ZY
+Date: 3/11/2026
+Method: innertube
+
+hello everybody and welcome to 
+notthatkindofachannel my name is Peter and today I will show you how my retrofit Apple CarPlay and Android Auto module 
+works on our Land Rover Discovery 4. I have to correct myself because in my install 
+video I said that it's not possible to connect the Android phones by a wireless connection to this 
+module the description set it like this and that you have to use a USB cable for your Android phone 
+but that's not right I will show this later in the menu there is a wireless connection setting for 
+your Android phone so you will be able to connect your phone uh via a wireless LAN or Bluetooth to 
+this module so yeah the next thing I have to say which I already said in my last video is that you 
+were losing your original navigation so instead of your original navigation you can use Waze or 
+you can use Google Maps or everything you wanted yeah for me this wasn't a big deal to lose this 
+old navigation system because it's it was really outdated and the last version was from 2016 I 
+think yeah and so it was not a big deal for me because I'm all always using here Maps or Google 
+Maps yeah and that's it the installation itself took me about without filming I would say if 
+you're not familiar with this we'll took you about two to three hours and to get everything off to 
+get all screws off and there are a lot of screws yeah and yeah that's it so what else to say about 
+this module I think it's one of the cheapest on a market because it costs me about 290 euros text 
+included in Austria and it was shipped from Poland also it was ordered over AliExpress so yeah so 
+without wasting too much time now I will show you how this module works and for that I will 
+turn on my engine because my battery is a bit low yeah okay so let's have a look and check it 
+out so as I said before I will start up the engine could be possible that my my phone is 
+already connected no it's not that's cool so what you have to do when 
+you when you have installed this module for the first time you should connect 
+your phone via the USB cable to the module so you get faster in it and you can then set up your 
+wireless connection it's not a big deal it's really easy you only plug it in and then you 
+connect it like every other thing you connect to to another device so that's that's really not 
+a big deal but but after you have connected it you have to do some settings the first one 
+is you have to go to your audio and video and then go to your own music and change normally 
+I think most of you will have connected your phone by USB or by Bluetooth and you have to change it 
+to aux because if you want to change it to aux you won't hear anything from the system so yeah 
+that's the that's the first point okay and now how you will start up the upper carplay or Android 
+auto it's only by pressing the navigation button over here or the navigation button down 
+here so we'll show you this you press here you're in the you're in the car play menu so it's 
+really easy if you haven't installed this you will get into this menu this is the module menu so 
+here is here you have your iOS your Android auto you can all you can also mirror your phones 
+and if you have no connection like me on on the Android phone you say oh please reconnect 
+your phone via USB and then connect it yeah so then let's change to the other settings within 
+the module if you don't have any cameras you can read through fit some cameras for the front 
+from the for the back and everything or you can get an AV in and stuff like that but in 
+the settings now we'll change the settings so in the audio settings you have your volume 
+your default volume settings so it's the main volume then the navigation volume in call volume 
+and so on and so on you can also uh change this micro sensitivity here I've got it 10 then 
+you have an equalizer for this module I have played around a bit and these are my favorite 
+settings so but there are some custom presets over here then you can use your original 
+microphone which is integrated in the car or if you don't have a hands-free installation you can 
+do a retrofit and yeah and then use this one then you also have an automatic Eco cancellation 
+but I don't haven't used this until now so then you have your wireless carplay settings as 
+you can see here this one is on uh you can choose your connection 2.4 or 5G then you have here your 
+device list oh you see okay this is my phone so discover and connect this one you will enter if 
+you connect it for the first time and then yeah you choose this and that's it so here's a pair 
+device list you can delete it and pair it new yeah that's the that's the connection settings and as 
+you can see here here is the wireless Android auto settings which I mentioned before the connection 
+is on but at the moment as I said I don't have an Android phone so I'm sorry yeah but as you can 
+see here you can also pair this your Bluetooth then you have some Advanced features this Advanced 
+feed these Advanced features are for some retrofit things like retrofit rear camera front cameras 
+and so on and if you want to do this and if you want to connect them to this module you can turn 
+this things that on and then it will be displayed but in my case I only have my original camera as 
+you can see here this one is activated yeah and that's it so then let's go back then you have 
+some user interface settings you can choose the driver position left or right and you can choose 
+some wallpapers if you want you can add new yeah yeah then you have the language at the moment it's 
+English so you can choose German or Portuguese or whatever then is the information this is 
+which version is installed and yeah you can also update this but I have to figure out 
+how I do this and never I've had no time for looking out to do this you can reset your 
+module and yeah and I don't know what this is because in the description it's not mentioned 
+I think you can do some presets maybe yeah but I don't know exactly what this is so and to 
+scroll as I said in my first video you have to push your finger on your display and 
+then swipe so and now let's go back to iOS this is the Apple CarPlay menu and 
+I think some of you will know this already well with your phone with your maps with your 
+settings and in my case yeah with WhatsApp Waze here we go Skype Spotify and yeah so the 
+settings yeah you're like in like on every other CarPlay so you can choose your background 
+you can choose your display mode your whatever um then you can go down here and my this one is 
+on the Land Rover thing which when you press this it will get you will get to your module menu 
+and if you want to go back so this is the next thing if you want to go back to your normal or 
+regular Range Rover screen you only have to press um down here I don't know if you're serious I will 
+assume a little bit back out so you have to press um your home menu and then boom you're 
+back in your regular Land Rover manual so and to switch back you can press the nav 
+button down here or as I said before the north button over here should I press 
+this one and we're back in the menu yeah so what else can we do I will show you 
+how my special case comes Spotify is working you can see here I turn up the volume 
+and you get the original one so you don't get the the CarPlay volume you 
+get this one but let's go to Spotify result and then I will take what 
+will I take I will take last year so well let's take this song 
+and I'll turn up the volume and you see it's really really smooth 
+working so yeah um okay for the pause [Music] um you see there's a small 
+delay between the screen and the upper coupler and this is because the screen doesn't 
+recognize this really fast so yeah the next thing you can't do you can't uh choose your 
+navigation buttons on the steering wheel or to switch between songs that's maybe also a 
+negative point but the phone is working yeah pretty well so you can make your calls from 
+here or from the original Land Rover menu so that's a plus point I really like 
+this that you have the possibility to do it from both the next thing which I have 
+to mention is you have to put your finger on the screen and then scroll so yeah you you 
+can't scroll like on a new phone as you can see here you have to put your finger down and 
+then swipe yeah so um yeah I think that is the this is a small walkthrough what I forgot 
+to tell you is when we go back outside um our 4x4 menu yeah stand here and it's 
+still working so if we change maybe yeah program as you can see everything works 
+fine and everything works like before so this was my small walk through um through this 
+Apple CarPlay and Android auto module I hope you liked it I hope you get some information out of 
+it what you can do what you can't do with it for me personally the only function I'm really missing 
+is the skipping between the songs on Spotify yeah but for yeah if you if you want to have this 
+one you should use you should buy a much more expensive one like nut plus um this will cost you 
+twice as much this costs um I think it's about 600 or 700 euros and this one cost you 290 so for me 
+it's okay I can handle that and yeah and I'm happy with this so if you like this video please give me 
+a thumb and if you want to see more from that kind of content uh just click the follow button yeah 
+and so guys have a nice day and see you soon bye [Music] thank you
+
+--- Summary ---
+
+## Retrofit Apple CarPlay & Android Auto Module on Land Rover Discovery 4 – Full Walkthrough
+
+*TLDR: A ~€290 retrofit CarPlay/Android Auto module for the Land Rover Discovery 4 works well overall, with a few limitations worth knowing before buying.*
+
+---
+
+### 📦 Product & Installation Overview
+
+- **Cost**: ~**€290** (tax included in Austria), ordered via **AliExpress**, shipped from Poland — described as one of the cheapest options on the market.
+- **Installation time**: **2–3 hours** for someone unfamiliar with the process, due to many screws and panel removal steps.
+- **A pricier alternative** (e.g., "Nut Plus") costs **~€600–700** and offers additional features like steering wheel song-skipping support.
+
+---
+
+### 📱 Connectivity – CarPlay & Android Auto
+
+- **Apple CarPlay**: Connects wirelessly via **2.4GHz or 5GHz Wi-Fi**; pair the device once via USB, then it connects automatically afterward.
+- **Android Auto**: Also supports **wireless connection** (via Bluetooth/Wi-Fi) — contrary to what the product description states. USB is only needed for initial setup.
+- **Activation**: Triggered by pressing either the **navigation button on the steering wheel** or the **nav button on the dash**.
+
+---
+
+### ⚙️ Key Setup Steps
+
+- After installation, go to **Audio & Video → Music settings** and switch the audio source to **AUX** — otherwise no sound will come through.
+- The **original microphone** built into the car can be used, or an aftermarket hands-free mic can be retrofitted.
+- **Echo cancellation** is available in settings but was not tested by the reviewer.
+
+---
+
+### 🛠️ Module Settings & Features
+
+- **Audio settings**: Adjustable main volume, navigation volume, in-call volume, microphone sensitivity, and a **built-in equalizer** with custom presets.
+- **Camera support**: Can integrate **front and rear retrofit cameras**; the original factory camera is supported and enabled by default.
+- **UI customization**: Choose driver position (left/right), wallpapers, and display language (English, German, Portuguese, etc.).
+- **Firmware updates** are possible but the process was not yet explored by the reviewer.
+- **AV input** is also available for additional external devices.
+
+---
+
+### ✅ What Works Well
+
+- **Spotify and music playback** runs smoothly with no audio lag.
+- **Phone calls** can be made from either the CarPlay interface or the original Land Rover menu — both work simultaneously.
+- All **original Land Rover functions** (e.g., 4x4 terrain settings) remain fully operational alongside the module.
+- Switching between CarPlay and the stock Land Rover screen is seamless via the nav button or the home menu button.
+
+---
+
+### ⚠️ Limitations & Drawbacks
+
+- **Original navigation is replaced** — the factory nav (last updated ~**2016**) is lost, but Google Maps, Waze, or HERE Maps fill the gap.
+- **Steering wheel controls do not work** with CarPlay for skipping tracks — a notable missing feature for music users.
+- **Small screen update delay** between physical controls and the CarPlay display.
+- **Touchscreen scrolling** requires pressing and swiping rather than a standard flick gesture — slightly less intuitive.
+
+---
+
+### 💡 Bottom Line
+
+For **~€290**, this module is a cost-effective way to add modern CarPlay and wireless Android Auto to an aging Land Rover Discovery 4 with an outdated infotainment system. The trade-off is losing steering wheel media controls and native navigation. If those features are essential, the **~€600–700 premium alternative** is worth considering — otherwise, this budget option delivers solid everyday functionality.

@@ -1,0 +1,117 @@
+Title: Air Suspension Problem? Try This CHEAP Fix! Land Rover Discovery 4 / LR4
+Source: https://www.youtube.com/watch?v=P4U1Rfkgt4w
+Date: 3/11/2026
+Method: innertube
+
+hello everyone my name is peter and 
+welcome back to notthatkindofachannel today or in today's episode i will show you how 
+to uh dismantle the wealth block in the front sometimes our our discovery four needs a little 
+bit to get up in the front and so i decided um to check the wealth block in the front and 
+for that case i bought some o-rings on ebay so the first thing i need to do is 
+i need to deflate the air suspension you can do this on two ways in my case i will use 
+the gap id tool for deflating the all four corners on this car if you don't have this tool be sure 
+that you really slowly unscrew the connection of your wealth block because if you do this 
+too fast and the system is under pressure it can pop off and yeah that i don't think that 
+would be nice so be careful do this slowly and let the air out and then wait a little bit 
+if until the air is complete out and then unscrew it and now before i'm checking up 
+the car i will deflate the air suspension and how you will do this i 
+will show you in a second on the gap id tool so guys i will turn on the 
+ignition and the next step we have to do is we have to go to the gap id tool then we need 
+to search for the tool i hope you can see it then wait until everything is loaded then go to service test and there you have 
+RLM Suspension and here you have those three points deflate corners deflate 
+reservoir or deflate all in our case we only want to deflate the corners and we have to make 
+sure that nothing is under the car yes so now the car is deflating all four corners get the air out 
+and after the air is out we can jack up the car and then we can get our tire off okay now it says the air suspension is not in 
+the customer mode ah okay now operation succeeded continue okay that's it so you can use your iid 
+tool to deflate your air suspension we can also deflate the reservoir but i don't think it's 
+necessary to do this okay that's it from the inside now let's go outside and check up the car 
+as you can see now it looks a little bit weird what happens now is um this one clipped off so 
+um i have to clip this back in but as you can see here is the wealth block so yeah we can so 
+the first thing with the wealth block is we have to disconnect it maybe more easy to get it off 
+yeah like that and then um disconnect the block um sorry guys i need both hands to disconnect 
+this um the first thing you do is to unplug the rough block and then there is one screw there 
+is one screw and our connection and there's the other connections um and you have to remove all 
+three to get the valve block out so we'll do this and then i will show you the valve block i am 
+back in my hut and this is um how the valve block looks like so here you have your air supplies for 
+the left and for the right one and this is the air supply from the air tank down here so okay and now 
+i will unscrew these screws on the top all right the valve block a really long screws so be really careful 
+because if there jumps something out okay the old rings look really good so so do you see this this one here 
+is much thicker than this one okay i think it's really time or it's really 
+good when you change the o-rings over time so stick the valve block together and hope that everything what 
+we have done today will work we're now back at the car and now we'll take the 
+valve block as i said before the green one goes down here and the other one uh the other one on 
+the other side top to top and bottom to bottom and that's it okay i will show you where i hope 
+you can see in there and so it's it's easy to connect them um and as i said before the first 
+one i will connect is the black one which is on which is the lower one so it's easier to get these 
+things fit so okay let's go and mount it back on everything now is back in place 
+and i connected the valve block um i'll show you this this is how it 
+looks like when it's back on his bracket and now i will get everything back in place we'll 
+mount the wheel and then i will hopefully uh have a better working air suspension in the front 
+after remounting the wheel we have to get air back in our air suspension and yeah let's have a 
+look at the gap iid tool and how we can do this so guys back in the car uh this 
+time i will start up the engine back in the car we're now scanning our id tool okay so and now i'm going to service 
+test our suspension and now we will re-enable our eas okay and now we have to push up or push 
+down our uh suspension and then it will be set back to customer mode so continue 
+and now let's grab the camera or go and now i will push it up okay everybody 
+this was it from my side and the video how to change the o-rings in the wealth block and i hope 
+as you can see here the car is now in extended mode and it stays there and i don't hear any 
+any any air come out or something like that so yeah i would look back tomorrow or a few days 
+what will happen if the car stays there or if it go down but for a moment i'm finished with 
+changing the o-rings of the wealth block and if you find this video helpful i would 
+really appreciate if you give me like and if you want to see more from that kind of 
+content or from my videos and how i do things on our discovery 4 i would really appreciate if you 
+subscribe to my channel so have a good day guys
+
+--- Summary ---
+
+## How to Replace O-Rings in the Front Valve Block on a Land Rover Discovery 4
+
+*TLDR: A step-by-step walkthrough of deflating the air suspension, removing the front valve block, replacing worn O-rings, and re-inflating the system on a Land Rover Discovery 4 using a GAP IID diagnostic tool.*
+
+---
+
+### 🔧 Why This Job Is Needed
+
+- **Symptom**: The front air suspension struggles to rise and hold position, indicating leaking O-rings in the front valve block.
+- **Fix**: Replacing the O-rings inside the valve block is a low-cost repair (parts sourced cheaply on eBay) that can restore proper suspension function.
+- **Key observation**: Upon disassembly, one O-ring was visibly much thicker/deformed than the other, confirming degradation over time — making periodic O-ring replacement a worthwhile preventive measure.
+
+---
+
+### 🛠️ Tools & Parts Required
+
+- **GAP IID diagnostic tool** (or equivalent Land Rover-compatible scan tool) for deflating and re-enabling the Electronic Air Suspension (EAS)
+- **Replacement O-rings** (available on eBay)
+- Standard screwdrivers and sockets
+- Jack to lift the vehicle after deflation
+
+---
+
+### ⚠️ Critical Safety Warning
+
+- **Never unscrew the valve block connections while the air suspension is still pressurized.** If disconnected under pressure, fittings can violently pop off.
+- Always **fully deflate the system first** and confirm pressure is gone before loosening any connections.
+
+---
+
+### 📋 Step-by-Step Process
+
+- **Step 1 – Deflate the suspension**: Using the GAP IID tool, navigate to *Service Test → RLM Suspension → Deflate Corners* to release air from all four corners (deflating the reservoir is not necessary for this job). Confirm "Operation Succeeded" before proceeding.
+- **Step 2 – Jack up the car and remove the wheel**: Once the suspension is fully deflated, the car sits very low; raise it and remove the front wheel to access the valve block.
+- **Step 3 – Disconnect and remove the valve block**: Unplug the electrical connector, then remove **three screws/connections** securing the valve block to its bracket. Note the air supply ports — two feed left and right air springs, one connects to the air tank.
+- **Step 4 – Disassemble and replace O-rings**: Unscrew the long bolts on top of the valve block carefully (components can spring out). Swap in the new O-rings and reassemble.
+- **Step 5 – Reinstall**: Reattach the valve block to its bracket — **green fitting goes to the lower port; top-to-top and bottom-to-bottom** orientation applies to the connections. Connect the lower (black) connector first for easier fitment, then reattach the electrical plug.
+- **Step 6 – Reinflate via GAP IID tool**: Start the engine, navigate to *Service Test → EAS → Re-enable*, then raise the suspension to set it back to customer mode. Confirm the car rises to the correct height and holds position.
+
+---
+
+### ✅ Result
+
+- After the repair, the vehicle successfully raised to **extended mode** and held its position with **no audible air leaks**, indicating a successful O-ring replacement.
+- The creator planned to monitor the car over the following days to confirm the suspension maintains height long-term.
+
+---
+
+### 💡 Bottom Line
+
+Air suspension valve block O-rings degrade silently over time and are a common, inexpensive root cause of front suspension drop on the Land Rover Discovery 4. This job is DIY-accessible if you own a compatible diagnostic tool to safely manage system pressure — skipping that step is the main risk. Periodic O-ring replacement can prevent more costly suspension failures down the line.

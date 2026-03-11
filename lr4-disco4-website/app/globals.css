@@ -1,0 +1,194 @@
+@import "tailwindcss";
+
+:root {
+  --bg-base: #111111;
+  --bg-surface: #1a1a1a;
+  --bg-raised: #222222;
+  --bg-sunken: #0c0c0c;
+  --foreground: #e4e4e4;
+  --foreground-muted: #8a8a8a;
+  --foreground-dim: #555555;
+  --lr-green: #0f7a42;
+  --lr-green-bright: #10b461;
+  --lr-green-dim: #0a3d24;
+  --lr-green-glow: rgba(15, 122, 66, 0.15);
+  --border-subtle: #2a2a2a;
+  --shadow-dark: #080808;
+  --shadow-light: #2c2c2c;
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@theme inline {
+  --color-background: var(--bg-base);
+  --color-foreground: var(--foreground);
+  --color-lr-green: var(--lr-green);
+  --color-lr-green-bright: var(--lr-green-bright);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+}
+
+body {
+  background: var(--bg-base);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
+}
+
+/* Neumorphic card - raised */
+.neu-card {
+  background: var(--bg-surface);
+  border-radius: 16px;
+  box-shadow:
+    6px 6px 14px var(--shadow-dark),
+    -6px -6px 14px var(--shadow-light);
+  border: 1px solid var(--border-subtle);
+}
+
+.neu-card-sm {
+  background: var(--bg-surface);
+  border-radius: 12px;
+  box-shadow:
+    4px 4px 10px var(--shadow-dark),
+    -4px -4px 10px var(--shadow-light);
+  border: 1px solid var(--border-subtle);
+}
+
+/* Neumorphic inset / pressed */
+.neu-inset {
+  background: var(--bg-sunken);
+  border-radius: 12px;
+  box-shadow:
+    inset 4px 4px 8px var(--shadow-dark),
+    inset -4px -4px 8px var(--shadow-light);
+  border: 1px solid #181818;
+}
+
+/* Neumorphic button */
+.neu-btn {
+  background: var(--bg-raised);
+  border-radius: 10px;
+  box-shadow:
+    3px 3px 8px var(--shadow-dark),
+    -3px -3px 8px var(--shadow-light);
+  border: 1px solid var(--border-subtle);
+  transition: all 0.15s ease;
+}
+
+.neu-btn:hover {
+  box-shadow:
+    2px 2px 4px var(--shadow-dark),
+    -2px -2px 4px var(--shadow-light);
+  background: var(--bg-surface);
+}
+
+.neu-btn:active {
+  box-shadow:
+    inset 2px 2px 5px var(--shadow-dark),
+    inset -2px -2px 5px var(--shadow-light);
+}
+
+/* Green accent glow */
+.green-glow {
+  box-shadow:
+    0 0 20px var(--lr-green-glow),
+    6px 6px 14px var(--shadow-dark),
+    -6px -6px 14px var(--shadow-light);
+  border: 1px solid var(--lr-green-dim);
+}
+
+/* Badge styles */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 10px;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.badge-green {
+  background: var(--lr-green-dim);
+  color: var(--lr-green-bright);
+  border: 1px solid var(--lr-green);
+}
+
+.badge-neutral {
+  background: var(--bg-raised);
+  color: var(--foreground-muted);
+  border: 1px solid var(--border-subtle);
+}
+
+/* Severity badges */
+.badge-critical { background: #4a1111; color: #ff6b6b; border: 1px solid #6b2020; }
+.badge-high { background: #4a2a11; color: #ffa94d; border: 1px solid #6b4020; }
+.badge-medium { background: #4a4411; color: #ffd43b; border: 1px solid #6b6020; }
+.badge-low { background: #1a3a1a; color: #69db7c; border: 1px solid #2a5a2a; }
+
+/* Prose styling for rendered markdown */
+.prose h2 {
+  color: var(--foreground);
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.prose h3 {
+  color: var(--foreground);
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.prose p {
+  color: var(--foreground-muted);
+  line-height: 1.7;
+  margin-bottom: 0.75rem;
+}
+
+.prose ul, .prose ol {
+  color: var(--foreground-muted);
+  padding-left: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose li {
+  margin-bottom: 0.35rem;
+  line-height: 1.6;
+}
+
+.prose strong {
+  color: var(--foreground);
+  font-weight: 600;
+}
+
+.prose a {
+  color: var(--lr-green-bright);
+  text-decoration: underline;
+  text-decoration-color: var(--lr-green-dim);
+  text-underline-offset: 2px;
+}
+
+.prose a:hover {
+  color: #4dbd4d;
+  text-decoration-color: var(--lr-green);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-base);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--bg-raised);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--border-subtle);
+}

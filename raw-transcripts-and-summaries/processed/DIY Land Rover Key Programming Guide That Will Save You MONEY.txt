@@ -1,0 +1,170 @@
+Title: DIY Land Rover Key Programming Guide That Will Save You MONEY!
+Source: https://www.youtube.com/watch?v=8KgceoHoNLw
+Date: 3/11/2026
+Method: innertube
+
+Hello my name is Peter and welcome to 
+"notthatkindofachannel". Today we're going to show you how to add a new key to our Land Rover 
+Discovery 4. Our Land Rover Discovery 4 is from 2012 and when we bought this car we only got 
+one key. So that's the problem and now I want to add a new one. I decided to buy a new one on 
+Ebay for about, I think it was 15 or 20 bucks. To add the the key i would use a very famous 
+aftermarket tool it's from GAP Diagnostic. The IID tool it will be connected with bluetooth 
+over over your iPhone or your Android app and this is how it looks like. The 
+reason why i bought this IIDTool is if you go to your Land Rover dealer and let 
+them delete a fault or an error from your system, they will charge you 70 euros for only deleting an 
+error message! And if you have other faults like some fault in your air suspension or anything 
+else it will cost you a lot of more money. And if you want to add this key to your car 
+they will charge you 400 euros! So the price for this thing is 550 euros and it's 
+a very good value for this price I think! Because with this you can you can do 
+everything in the car you can read your engine data you can read everything they 
+show you everything from a car you want to know so i think this is one of the best aftermarket 
+tools you can buy there will be a lot more i tested one i think it was from icar soft it costs 
+about 150 euros but with that tool you only can read your faults delete your faults or adding 
+i think it was add a new battery and do the service reset or something like that but with 
+that you can do a lot more and i have to say this is not 
+a commercial i bought this on my own so yes okay and after that i think we take the key and 
+look inside the car so we're now on the driver's side let's unlock the car and let's look 
+where we put this IID tool in i hope you can see it so just wait a minute i'll take the camera 
+and show it to you so let's go in there it's under the steering wheel i hope you 
+can see it's a little bit dark in here so just wait a moment i will light it up
+with my smartphone lamp so you can see it here it's under here and then you'll only take 
+it and you'll plug it in yes and that's it so now let's change into the car we're now 
+here in the car and i've got the new key this ebay and the original one i think you 
+need the original one to add the new one yes and now we need to turn on the ignition 
+i think it would be better if we start the car but i think the voltage of the battery 
+is high enough so let's open the app i hope you guys can see it it's the gap iid 
+control app use it's available on the ios store or on the android google play store so 
+for the next we're going to search for the tool i hope it'll find it yes loaded so okay two 
+information has been updated great so what's next okay the next thing is we need to do 
+i think it was the service test and the bcm body control yes and here you can see i
+hope you can see it and here's add a new key so let's try it i've never done this before so i 
+hope it will work routine will add a new key no change will be made to actual keys okay continue 
+what i forgot to say i saw it here you can check how many  keys you currently have 
+so i only have one but let's see routine will add a new key you proceed okay yes so execute 
+and reading let's see what is coming out yes okay as we can see there are two keys 
+programmed for this car but only one valid key is detected as i said i think the 
+pre-owner lost the key or i don't know or it was damaged but i only have one key so okay so 
+let's try it and add a new one let's hope it will work okay continue one functional key is required 
+okay yes we have one functional key the original one so let's continue ensure ignition is on 
+yes it is on proceed with this routine yes so executing routine i don't really know what it is doing with that routine started wait completion okay executing routine okay what's that one functional key is required yes make sure ignition is on proceed this routine yes excuse routine maybe we should 
+start the car i didn't know waiting started to complete operation failed e5y so in the meantime i did a little research about 
+the problem and the problem is that some cars have different ecu's and they will cause a problem so 
+you have to send your ecu infos to gap diagnostic yes and they will send you back hopefully back 
+how you'll do this so i found a very short 40 second video from them how to do it and 
+i'll show you at the moment but i need i only need the email address it´s... diagnostics... okay so i 
+switch back and yes you need in the main menu from the iid tool you need to go to ecu info 
+i did this already but i'll show you i refreshed that so all ecu's will be scanned as you can hear i started up the 
+car because it's very cold today yes and so seat heating is really comfy so hopefully he's doing this well yep okay now you only 
+share this with gapteam@ gap-diagnostic.com so i will write 
+them a small short text what's the problem hello guys i tried to add a new key but i got an e i think it was an e5 i made some screenshots 
+from that so let's have a look yes okay this version of key... okay so what was the other 
+one operation failed e5 okay so let's add this i tried to add a new key but i got an e5 error when i executed the operation can you guys help me thanks and all the best peter so hope so send it i hope they will respond soon and then i can continue with the video so hello and welcome back again what happened 
+in the meantime i got an email from the gap guys how to do and how to 
+flash or update my iid tool and so i did it's very easy you just have to connect 
+your iid tool to your computer and start to update the tool and then yeah just 
+install the update by clicking one button and that's it and after that you have to 
+go to your car plug the iid tool in flash the specified ecu and update the ecu 
+info again and send them back to the gap guys i hope this time it really works so 
+let's see okay let's go to the car so guys i am back in the car right now and 
+the instructions from the gap team was we already we are ready for key programming 
+up to the tool again to special build blah blah blah okay so in the vehicle prepare 
+all keys okay we got all keys over here menu ecu flash kbm at key okay so i will say 
+let's try it okay we need to turn the ignition on go into the gap tool search the
+tool hope you guys can see it it's loading pretty quickly so what did they say 
+what was the next step the next step was prepare keys menu ecu flash okay 
+so let's flash it again ecu flash that's strange it's not in here let's try this flashing duration for about 20 seconds continue yes okay ignition will return on automatically okay okay so let's see what happens 
+i guess it will be dark in here as the last time so 
+okay actually we have light switching ignition on oh now it's dark so let's wait what 
+will happen flashing in progress okay back on again switching ignition off flash completed 
+routine will add a new key no change will be made to actual keys oh cool okay 
+continue one functional key is required yes we have one function you proceed with this 
+routine yes executing routine so now it gets when prompt press and hold unlock key 
+okay on the new key so this is the new key let's try and see what happens 
+continue press and hold now okay okay okay let's see what 
+happens press and hold now maybe i should change my fingers continue okay so what's going on executing routine operation succeeded well that's great so continue now let's see what 
+happens switch ignition on okay that's funny okay ecu initialisation
+five seconds remaining so good the original keys over here clearing faults and this should be the new one so let's 
+see what happens okay we have to wait again 15 seconds i'm a little bit excited 
+what happens now it's cold out here so switching ignition on yes back on again clearing faults next time engine is started start it stop it and then restart it okay let's do this 
+continue upload succeeded flash completed so we will start it then we'll shut it down wait a few seconds and then we'll start it again so now let's see what happened i will turn the engine off 
+and then try to lock our car off and whoa boom it really works turn it on this is the new key great so i think we're done for today i'm very 
+happy to have a new key and i really would like to say thanks to the guys of the gap team they 
+responded really really quickly and were really really helpful especially with my problem here 
+so thanks again and for the next time i think i will make a video about 
+calibrating the suspension the air suspension because in our land rover we have a problem 
+on the left back side the suspension in in the back of the car on this side is i think 
+two centimeters or one centimeter lower than the other corners and so i will try to calibrate 
+this with the iid tool it should also be possible you can calibrate it with this tool yes and 
+for the future i will make some other videos how to change the oil of 
+the car how to do the service and everything else so if you liked it please leave a thumbs 
+up here and if you want to see more or if you want to see how to do other things 
+on this car maybe you'll like to follow so i will link the tool in the description as 
+i said before it's  not a cheap one but i think it's really helpful 
+and it costs less than driving to a land rover dealer and clearing 
+faults and the other stuff i said before so i would like to say thanks for watching 
+and hope to see you again and see you soon bye
+
+--- Summary ---
+
+## Adding a New Key to a Land Rover Discovery 4 Using the GAP IID Tool
+
+*A step-by-step walkthrough of programming a spare key to a 2012 Land Rover Discovery 4 using an aftermarket diagnostic tool, saving hundreds of euros compared to dealer pricing.*
+
+---
+
+### 🔑 The Problem & The Solution
+
+- **Starting situation**: Only one key came with the car; a second key needed to be programmed.
+- **Cheap key source**: A replacement key fob was purchased on eBay for approximately **€15–20**.
+- **Dealer cost avoided**: A Land Rover dealer would charge **~€400** just to program a new key; clearing a simple fault code alone costs **€70**.
+
+---
+
+### 🔧 The Tool: GAP Diagnostic IID Tool
+
+- **Cost**: ~**€550**, connects via **Bluetooth** to an iOS or Android app.
+- **Capabilities**: Full vehicle diagnostics — read/clear fault codes, engine data, key programming, service resets, ECU flashing, suspension calibration, and more.
+- **Comparison to budget alternatives**: A cheaper tool (e.g., iCarSoft at ~**€150**) only covers fault reading/clearing, battery registration, and service resets — far more limited.
+- **Value argument**: At €550, the tool pays for itself quickly vs. repeated dealer visits (one key programming job alone = €400).
+- **Connection point**: The IID dongle plugs into the **OBD port under the steering wheel**.
+
+---
+
+### 📋 Key Programming Process
+
+- **Prerequisite**: The original working key must be present during the procedure.
+- **Navigation path in app**: `Body Control (BCM)` → `Add a New Key`
+- **Discovery during process**: The tool revealed **2 keys were previously programmed** to the car, but only **1 valid key detected** — suggesting the previous owner lost or damaged the second key.
+
+---
+
+### ⚠️ Troubleshooting: E5 Error
+
+- **First attempt failed** with an `E5 - Operation Failed` error, caused by an **ECU compatibility issue** on certain vehicles.
+- **Fix**: Email **gapteam@gap-diagnostic.com** with your ECU info (exported directly from the IID tool via `ECU Info` menu); the GAP support team responds quickly with a custom solution.
+- **Resolution steps provided by GAP**:
+  1. Update/flash the IID tool firmware via PC (one-button process).
+  2. Re-connect to the car and flash the specific **KBM (Key Body Module) ECU** via `ECU Flash` in the app (~20 seconds).
+  3. Re-run the key programming routine.
+
+---
+
+### ✅ Successful Programming Walkthrough
+
+- After the ECU flash, the routine prompts: **"Press and hold unlock button on new key"** — holding the button on the new eBay key at the right moment completes the pairing.
+- Process includes an **ECU initialization** (~15 seconds) and a **fault-clearing cycle**.
+- Final verification: **start engine → turn off → restart** to confirm new key is fully active.
+- **Result**: New key successfully unlocked and started the car.
+
+---
+
+### 🔮 Planned Future Uses for the IID Tool
+
+- **Suspension calibration**: Left rear air suspension sits ~**1–2 cm lower** than other corners; the IID tool can recalibrate it.
+- **Other DIY maintenance**: Oil changes, service resets, and general car maintenance videos planned.
+
+---
+
+### 💡 Bottom Line
+
+For Land Rover owners, the **GAP IID Tool (~€550)** is a powerful investment that replaces expensive dealer visits for diagnostics, fault clearing, and advanced procedures like key programming. This video proves that a task dealers charge **€400** for can be done at home for the cost of a **€15–20 eBay key** — as long as you're prepared to troubleshoot ECU compatibility issues with the help of GAP's responsive support team.

@@ -1,0 +1,105 @@
+Title: Bad Reversing Light? UPGRADE To LED on a Land Rover Discovery 4 / LR4
+Source: https://www.youtube.com/watch?v=EilmMYGk968
+Date: 3/11/2026
+Method: innertube
+
+hello guys and welcome back to 
+"notthatkindofachannel" today as i told you in my last video i will replace my reversing lights 
+because all of you know when you have an older car your reversing light is more dark than 
+bright and so i decided to change these bulbs to led bulbs you can get these bulbs on 
+amazon for 15 euro they come in a pack of two so this is an easy fix and you can do this on your 
+own it will take you about 10 minutes of your time yes and that's it so i will do a comparison 
+with the old bulbs in and with new led bulbs in so yeah i would say let's 
+start and go back to the trunk so the first tool the first tool you need is a screw driver 
+because you have to remove two screws the first one is up here and the second one is down 
+here so no big deal just get the screws out so the first one is out second one so the next thing you have to do is you have to push this back light out so get 
+it a little bit here and then push it a little bit harder and that's it so as 
+you can see here are some pins some plastic pins they were held by these plastic clips in here 
+so be careful because if you push it too hard then maybe they will crack or break so yes the 
+next thing we need to do is unplug the light and for that we have to pull this connector down and 
+then push it out and that's it so the backlight or the returning light is in here you have to 
+turn it to the left and then you can get it out for releasing the bulb is the same way you 
+have to push it in and turn it to the left and then it's released so here are our new bulbs 
+so as you can see they're surrounded by led chips also on the top of the of the bulb there 
+are led chips and what i forgot to say is these led bulbs they cause no canbus error you 
+can put them in and you won't get any error i'm doing the same as before but in 
+the reverse order so i take the bulb pull it in turn it around and that's it and 
+the same thing is for the whole case here you have here some spaces which should be aligned 
+with these pins over here and then get them in turn them around and that's it so the 
+next step is we have to align these pins these pins should be aligned here 
+but before we connect our plug here so easy as that you hear a silent click and 
+then you know it's it's fixed so now it's in and then we align our clips here so be careful not to break them okay so these are aligned and 
+then pull it in yeah and that's it and the only thing you have to do now is to get the screws 
+back in place and that's it so let's get them in first one and down here the second one the same thing as we did here on the passenger 
+side needs to be done on the driver's side but i won't show you this because it's very easy 
+and it's really the same you have two screws you have to pull it out change the bulb and 
+that's it so as i said in my last videos i really want to calibrate my air suspension with 
+the gap iid tool and one of my next videos will be how to replace or how to install the tire pressure 
+control system because my winter tires they don't have this control system and every time you get in 
+the car and start the ignition the car said oh you don't have the tire pressure control system is not 
+available and you have to press okay and then it's gone but it's annoying all the time and so i chose 
+to buy these this control system you will get it for 70 or 80 euros as aftermarket 
+as an aftermarket replacement and it's much cheaper than the land rover 
+one because this will cost you 400 euros without installation so as i said at the beginning 
+of this video now i will show you how these leds work in the dark in comparison to the old bulbs 
+and if you find this video helpful please give me a like or if you want to see more content 
+or if you have any questions or want to see something else please let me know in the comments 
+and subscribe so thank you and have a nice day bye so hello guys as i said before it's now dark and 
+now i want to show you how bright those lights are and if you already see i'm lightened up 
+and you can see how bright these leds are for the reversing lights so i'll grab 
+the camera and then i'll show you how so guys as you saw before the lights are so 
+bright that they lighten up the whole way to our house and yes i will really recommend 
+them because they will only cost you 15 euro and you get a much better reversing 
+light than you had before so thank you bye you
+
+--- Summary ---
+
+## Upgrading Car Reversing Lights to LED Bulbs
+
+*A quick DIY guide to replacing dim factory reversing bulbs with LED alternatives for brighter, error-free performance.*
+
+---
+
+### 🔧 The Problem & The Fix
+
+- **Aging factory bulbs**: Older cars develop dim reversing lights over time, reducing visibility when backing up.
+- **LED replacement cost**: A pack of **two LED reversing bulbs costs ~€15 on Amazon** — a cheap, effective upgrade.
+- **Time required**: The full replacement takes approximately **10 minutes** and requires only a screwdriver.
+
+---
+
+### 🛠️ Step-by-Step Replacement Process
+
+- **Remove two screws**: One screw at the top and one at the bottom of the tail light housing.
+- **Pop out the light unit**: Push the housing outward carefully — it is held by **plastic pins and clips** that can crack if forced too hard.
+- **Disconnect the plug**: Pull the connector down and push it out to free the unit.
+- **Remove the bulb**: Turn the bulb socket **left** to release it, then push and turn the bulb itself left to extract it.
+- **Install the new LED bulb**: Reverse the process — insert, turn, align, reconnect the plug (listen for a click), and reattach the housing and screws.
+- **Repeat on the other side**: The driver's side process is identical — two screws, pull out, swap bulb, reassemble.
+
+---
+
+### ✅ Key Product Advantage
+
+- **CANbus error-free**: These LED bulbs are specifically designed to **not trigger dashboard warning errors**, which is a common issue with cheap LED replacements in modern cars.
+- **LED chip coverage**: Chips surround the bulb on the sides and top for wide-angle brightness.
+
+---
+
+### 💡 Real-World Results
+
+- **Dramatic brightness improvement**: In the dark comparison, the LEDs illuminated the **entire driveway up to the house**, far outperforming the old incandescent bulbs.
+- **Cost vs. value**: For just **€15**, the visibility improvement is significant and the install requires no specialist knowledge or tools.
+
+---
+
+### 🔜 Upcoming Content Mentioned
+
+- **Air suspension calibration** using the GAP IID diagnostic tool.
+- **Tire pressure monitoring system (TPMS) install** for winter tires: aftermarket sensors cost **€70–€80**, versus **€400+ for OEM Land Rover sensors**.
+
+---
+
+### 💡 Bottom Line
+
+Replacing factory reversing bulbs with **CANbus-compatible LED bulbs (~€15)** is one of the easiest and most cost-effective car upgrades possible — 10 minutes, one screwdriver, and the result is noticeably brighter, safer reversing visibility.
