@@ -495,6 +495,68 @@
       "channel": "G4 outdoor",
       "title": "D4 Dual Battery System",
       "note": "transcript too short (10 chars)"
+    },
+    "g3-JmCp2iso": {
+      "transcribed": true,
+      "content_file": "dpf-airflow-sensor-diagnosis-discovery-4.md",
+      "channel": "O'Rileys Autos",
+      "title": "Land Rover Discovery 4 P0103-17 & P2463-00 & P246B-00"
+    },
+    "2g5_Pqp08Wc": {
+      "transcribed": true,
+      "content_file": "turbo-actuator-sticking-quick-fix.md",
+      "channel": "SilverFoxBull",
+      "title": "Land Rover Discover 3 & 4 - Engine System Fault - Sticking / Rusty Turbo Actuator - Quick Fix"
+    },
+    "6vhYXutMSDc": {
+      "transcribed": true,
+      "content_file": "intake-manifold-crack-repair-restricted-performance.md",
+      "channel": "LR TIME",
+      "title": "Restricted Performance Issue Fixed - LR4"
+    },
+    "TqG9Nz38uAY": {
+      "transcribed": true,
+      "content_file": "pcv-diaphragm-white-smoke-fix-lr4.md",
+      "channel": "Lost Cause Ranch",
+      "title": "Head Gaskets or Easy Fix? End of this Smoking Land Rover LR4"
+    },
+    "VKmqEQ7tA-s": {
+      "transcribed": true,
+      "content_file": "lanoguard-rust-treatment-discovery-4.md",
+      "channel": "Lanoguard - Underbody Rust Protection",
+      "title": "FULL Lanoguard RUST TREATMENT on a Land Rover Discovery!"
+    },
+    "9d5NJ3FHodY": {
+      "transcribed": true,
+      "content_file": "terrain-response-explained-how-to-use.md",
+      "channel": "L2SFBC - Robert Pepper - auto journo",
+      "title": "Terrain Response & ATSes explained - Part 1"
+    },
+    "8YBN0J7kGPc": {
+      "transcribed": true,
+      "content_file": "discovery-4-towing-review-practical-caravan.md",
+      "channel": "Practical Caravan",
+      "title": "Practical Caravan | Land Rover Discovery | Review 2013"
+    },
+    "PmJcJVacCL4": {
+      "transcribed": true,
+      "content_file": "discovery-4-towing-test-caravan-world.md",
+      "channel": "Caravan World Magazine",
+      "title": "Towing test: Land Rover Discovery"
+    },
+    "B824UDsKquc": {
+      "transcribed": true,
+      "content_file": null,
+      "channel": "OVERDRIVE",
+      "title": "Land Rover Discovery 4 vs Mitsubishi Montero vs Mercedes GL350 vs Toyota Land Cruiser LC200 - Part 1",
+      "note": "entertainment/adventure content, insufficient practical comparison data"
+    },
+    "36a4AvaL4tM": {
+      "transcribed": false,
+      "content_file": null,
+      "channel": "KNE Auto's",
+      "title": "Land Rover Discovery 4 2011 3.0 Diesel - DPF Clean & Throttle Body Fix",
+      "note": "transcription failed"
     }
   }
 }
