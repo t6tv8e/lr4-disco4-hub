@@ -1,34 +1,500 @@
 {
-  "_comment": "Tracks which videos have been transcribed/processed. Prevents duplicate API calls.",
+  "_comment": "Tracks all processed videos. Check before transcribing to prevent duplicate API calls.",
   "videos": {
-    "2-xT_DvVzsw": { "transcribed": true, "content_file": "buying-guide-discovery-4-south-africa.md", "channel": "Cars.co.za" },
-    "AvPACAJDS8w": { "transcribed": true, "content_file": "timing-belt-big-service-sdv6.md", "channel": "LR TIME" },
-    "aMTYtf7ES-Q": { "transcribed": false, "content_file": null, "channel": "Jimmy Cogg", "note": "transcription failed" },
-    "4cObPBU7jzk": { "transcribed": true, "content_file": "air-suspension-fault-rapid-pressure-diagnosis.md", "channel": "DiagnoseDan" },
-    "6oFE90_BgpM": { "transcribed": false, "content_file": null, "channel": "EnjoytheCars", "note": "transcription failed" },
-    "9XCJ6BU-Z9o": { "transcribed": true, "content_file": "how-to-check-oil-level-lr4-d4.md", "channel": "powerfulukltd" },
-    "CWfm65Un2HM": { "transcribed": true, "content_file": "lr4-5l-v8-timing-chain-replacement.md", "channel": "Lost Cause Ranch" },
-    "9EVmlHqlDIY": { "transcribed": true, "content_file": "air-suspension-emergency-manual-override-kit.md", "channel": "Far Reach Engineering" },
-    "ecjQTGgO33E": { "transcribed": true, "content_file": "discovery-4-real-world-daily-driver.md", "channel": "Barrett's Reviews" },
-    "CjfhywdHAic": { "transcribed": true, "content_file": "lr3-lr4-worth-buying-used.md", "channel": "Mario V." },
-    "ayqgNx9QyM4": { "transcribed": true, "content_file": "air-suspension-front-valve-rebuild.md", "channel": "LR TIME" },
-    "8Yod0OtMPco": { "transcribed": true, "content_file": "timing-belt-gearbox-service-range-rover.md", "channel": "The Car Edition" },
-    "0-syMIviEgQ": { "transcribed": true, "content_file": "sdv6-se-tech-buying-review.md", "channel": "Condor Prestige" },
-    "8nEVp2iIQwM": { "transcribed": true, "content_file": "lr3-lr4-used-buying-tips-inspection.md", "channel": "ShowCare" },
-    "ocuaoW5WD44": { "transcribed": true, "content_file": null, "channel": "The Gear Shift Crew", "note": "transcript too short (694 chars)" },
-    "8PVkXDs9pqo": { "transcribed": true, "content_file": "discovery-4-wont-start-electrical.md", "channel": "Jerome Leech" },
-    "pLng3UI2d5E": { "transcribed": true, "content_file": null, "channel": "Cars.co.za", "note": "transcript too short (941 chars)" },
-    "7yspkJ1w26Q": { "transcribed": true, "content_file": "air-suspension-system-explained-d3.md", "channel": "The Overland Legend" },
-    "4X3GZUxDWJw": { "transcribed": true, "content_file": "oil-filter-change-27-30-tdv6.md", "channel": "Camping begins" },
-    "94rtkSMTL0k": { "transcribed": true, "content_file": "three-ways-fix-air-suspension.md", "channel": "LR Live" },
-    "6ABuoGKNbbI": { "transcribed": true, "content_file": "must-have-off-road-mods-discovery-4.md", "channel": "Torr Overland" },
-    "346qghb-S3E": { "transcribed": true, "content_file": null, "channel": "itsoleg", "note": "transcript too short (502 chars)" },
-    "JQlzcIgjxTc": { "transcribed": true, "content_file": "maintenance-costs-6-years-ownership.md", "channel": "Torr Overland" },
-    "7_dCa8V90sk": { "transcribed": true, "content_file": "oil-filter-service-under-40-pounds-oil-analysis.md", "channel": "adamtwrm" },
-    "RnPS8c16KN8": { "transcribed": true, "content_file": null, "channel": "Automobile", "note": "transcript too short (154 chars)" },
-    "M2RuifdfFOU": { "transcribed": true, "content_file": null, "channel": "Haynes Manuals", "note": "transcript too short (493 chars)" },
-    "93Cq6_JTW0I": { "transcribed": true, "content_file": "discovery-4-comprehensive-review-australia.md", "channel": "ReDriven" },
-    "DOuf6BZC3vM": { "transcribed": true, "content_file": null, "channel": "G4 outdoor", "note": "transcript too short (10 chars)" },
-    "2XGwzVPrKxc": { "transcribed": false, "content_file": null, "channel": "G4 outdoor", "note": "transcription failed" }
+    "N-diLoNOBsQ": {
+      "transcribed": true,
+      "content_file": "air-suspension-calibration-gap-iid-tool.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Calibrate Air Suspension in 10 Minutes on a Land Rover LR 4 / Discovery 4 using the GAP IID Tool"
+    },
+    "oK4cxojZXWI": {
+      "transcribed": true,
+      "content_file": "air-suspension-compressor-filter-cleaning.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "HIDDEN Air Suspension Air Intake Filter - Land Rover Discovery 4 LR4"
+    },
+    "9EVmlHqlDIY": {
+      "transcribed": true,
+      "content_file": "air-suspension-emergency-manual-override-kit.md",
+      "channel": "Far Reach Engineering",
+      "title": "Air Suspension Manual Override Emergency Lift Kit"
+    },
+    "4cObPBU7jzk": {
+      "transcribed": true,
+      "content_file": "air-suspension-fault-rapid-pressure-diagnosis.md",
+      "channel": "DiagnoseDan",
+      "title": "Air Suspension Fault Explained Fixed"
+    },
+    "P4U1Rfkgt4w": {
+      "transcribed": true,
+      "content_file": "air-suspension-front-valve-block-o-ring-replacement.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Air Suspension Problem? Try This CHEAP Fix! Land Rover Discovery 4 / LR4"
+    },
+    "ayqgNx9QyM4": {
+      "transcribed": true,
+      "content_file": "air-suspension-front-valve-rebuild.md",
+      "channel": "LR TIME",
+      "title": "Air Suspension Fix - D3/LR4"
+    },
+    "4Z119VSKwp4": {
+      "transcribed": true,
+      "content_file": "air-suspension-fuse-trick-prevent-drop.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "How the Air Suspension WON'T Get DOWN - Land Rover Discovery 4 or LR4 #Shorts"
+    },
+    "MgrQD3q_Aqw": {
+      "transcribed": true,
+      "content_file": "air-suspension-rear-valve-block-o-ring-replacement.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "FIX Air Suspension EASY and CHEAP - Land Rover Discovery 4 LR4"
+    },
+    "7yspkJ1w26Q": {
+      "transcribed": true,
+      "content_file": "air-suspension-system-explained-d3.md",
+      "channel": "The Overland Legend",
+      "title": "Air Suspension System Explained"
+    },
+    "P_7APAagMyI": {
+      "transcribed": true,
+      "content_file": "auto-high-beam-retrofit.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "EASY DIY Auto High Beam Retrofit - Make Your Discovery 4 Smarter"
+    },
+    "NqhE8Tb_MvU": {
+      "transcribed": true,
+      "content_file": "auxiliary-headlight-brackets-discovery-4.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Where To Mount Auxiliary Headlights DIY Brackets for Land Rover Discovery 4 LR4"
+    },
+    "Tez6l6FII4w": {
+      "transcribed": true,
+      "content_file": "battery-replacement-gearbox-error.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Land Rover Battery Replacement FIXES Mysterious GEARBOX ERROR!"
+    },
+    "_19KokkJuXc": {
+      "transcribed": true,
+      "content_file": "best-color-upgrade-grille-discovery-4.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "BEST Color UPGRADE for Side and Front Grille - Land Rover Discovery 4 or LR4"
+    },
+    "qYvrIURDiy0": {
+      "transcribed": true,
+      "content_file": "best-roof-rack-mp-4x4-install.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "The BEST Roof Rack You Can Buy for Your Discovery 4!"
+    },
+    "hXtwm8iiITU": {
+      "transcribed": true,
+      "content_file": "bf-goodrich-ko2-tyre-review.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "BF Goodrich KO2 All Terrain on a Land Rover Discovery 4 / LR4"
+    },
+    "T_pUq1tFhNk": {
+      "transcribed": true,
+      "content_file": "boot-slide-out-drawer-diy-build.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Heavy Duty Slide Out Drawer For Your Land Rover Discovery 4 / LR4"
+    },
+    "2-xT_DvVzsw": {
+      "transcribed": true,
+      "content_file": "buying-guide-discovery-4-south-africa.md",
+      "channel": "Cars.co.za",
+      "title": "How to buy a Discovery 4"
+    },
+    "GknKsvNO9ZY": {
+      "transcribed": true,
+      "content_file": "carplay-retrofit-module-walkthrough.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Is Apple CarPlay Worth the Money? Land Rover Discovery 4 / LR 4?"
+    },
+    "93Cq6_JTW0I": {
+      "transcribed": true,
+      "content_file": "discovery-4-comprehensive-review-australia.md",
+      "channel": "ReDriven",
+      "title": "Is the D4 as BAD as everyone says?"
+    },
+    "Niij0UbecWo": {
+      "transcribed": true,
+      "content_file": "discovery-4-console-cooler-upgrade.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Watch This Discovery 4 Console Get An Amazing Upgrade"
+    },
+    "ecjQTGgO33E": {
+      "transcribed": true,
+      "content_file": "discovery-4-real-world-daily-driver.md",
+      "channel": "Barrett's Reviews",
+      "title": "D4 perfect in the real world"
+    },
+    "8PVkXDs9pqo": {
+      "transcribed": true,
+      "content_file": "discovery-4-wont-start-electrical.md",
+      "channel": "Jerome Leech",
+      "title": "Discovery 4 Won't Start - Electrical Diagnosis"
+    },
+    "oPOsKFjqYpM": {
+      "transcribed": true,
+      "content_file": "do-this-before-your-engine-is-scrap.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "DO THIS before your Engine is SCRAP! Land Rover Discovery 4 / LR4"
+    },
+    "QNBPixBGxyg": {
+      "transcribed": true,
+      "content_file": "easy-install-mobile-carplay-android-auto.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Easy Install MOBILE Apple CarPlay & Android Auto on Land Rover LR4"
+    },
+    "1EaqHPZBmHA": {
+      "transcribed": true,
+      "content_file": "easy-land-rover-differential-service.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "I Can't Believe How Easy This Land Rover Differential Service Was"
+    },
+    "crcO-r2_VC4": {
+      "transcribed": true,
+      "content_file": "engine-ticking-discovery-4-update.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "ENGINE Ticking on the Land Rover Discovery 4 - Update!"
+    },
+    "V28J3mMJtgY": {
+      "transcribed": true,
+      "content_file": "fix-coolant-level-low-error-discovery-4.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Fix COOLANT LEVEL LOW Error Land Rover Discovery 4 LR4"
+    },
+    "UjYx__RFzps": {
+      "transcribed": true,
+      "content_file": "fix-discovery-4-center-armrest-save-500.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "FIX Your Land Rover Discovery 4 Center Armrest & SAVE 500"
+    },
+    "hspE9RVfbCs": {
+      "transcribed": true,
+      "content_file": "fixed-lr4-dents-with-glue-pull-kit.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "I Fixed Land Rover LR4 Dents with Glue and these Tools"
+    },
+    "3PMxmnK_0SY": {
+      "transcribed": true,
+      "content_file": "gap-iid-tool-overview.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "GAP IID Tool: 5 PROs and 3 CONs - Land Rover Discovery 4 LR4"
+    },
+    "7yCnqbQFy08": {
+      "transcribed": true,
+      "content_file": "h7-headlight-bulb-replacement.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "QUICK Replace Headlight Bulbs on a Land Rover Discovery 4 / LR4"
+    },
+    "jY0GNVZV9BM": {
+      "transcribed": true,
+      "content_file": "h7-led-headlight-upgrade.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Are H7 LED Headlights Bright? Test Drive on a Land Rover LR4 / Discovery 4"
+    },
+    "-IPk_BFLUQ8": {
+      "transcribed": true,
+      "content_file": "hood-solar-panel-installation-lensun.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "I Installed Hood Solar Panels on My LR4 / Discovery 4"
+    },
+    "W4jFV2QVW2Q": {
+      "transcribed": true,
+      "content_file": "how-changing-transfer-case-fluid-can-save-your-lr4.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "How Changing Transfer Case Fluid Can Save Your LR4"
+    },
+    "QgwY_nQZ9W4": {
+      "transcribed": true,
+      "content_file": "how-much-does-differential-fluid-change-cost.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "How Much Does a Differential Fluid Change ACTUALLY Cost?"
+    },
+    "K7Vofthl6uY": {
+      "transcribed": true,
+      "content_file": "how-to-avoid-destroying-automatic-transmission.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "How to Avoid Destroying Your Automatic Transmission (and Save $$$)"
+    },
+    "OCmOkZ4UDlM": {
+      "transcribed": true,
+      "content_file": "how-to-change-diesel-fuel-filters.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "How to Change Your LR4 Diesel Fuel Filters (and Why You Should!)"
+    },
+    "qsh3pJ2TKJ0": {
+      "transcribed": true,
+      "content_file": "how-to-check-engine-oil-pressure.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "How to Check Engine Oil Pressure in 5 Minutes FAST"
+    },
+    "9XCJ6BU-Z9o": {
+      "transcribed": true,
+      "content_file": "how-to-check-oil-level-lr4-d4.md",
+      "channel": "powerfulukltd",
+      "title": "How to (and Not to) Check Oil Level on Land Rover Discovery 4 LR4"
+    },
+    "kd-4PqNXIUQ": {
+      "transcribed": true,
+      "content_file": "how-to-flush-power-steering-fluid.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "How to Flush Power Steering Fluid on a Land Rover (and Why You Should)"
+    },
+    "LwF2ACOjApI": {
+      "transcribed": true,
+      "content_file": "how-to-remove-airbag-steering-controls-discovery-4.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "How To REMOVE Airbag & Steering Controls - Land Rover Discovery 4 LR4"
+    },
+    "g53tvfqqSjU": {
+      "transcribed": true,
+      "content_file": "how-to-remove-all-7-seats-discovery-4.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "How To REMOVE All 7 SEATS on a Land Rover Discovery 4 LR4"
+    },
+    "XH3JD35yLLQ": {
+      "transcribed": true,
+      "content_file": "i-bought-a-discovery-4-was-it-worth-it.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "I Bought a Land Rover Discovery 4 - Was It Worth It?"
+    },
+    "8KgceoHoNLw": {
+      "transcribed": true,
+      "content_file": "key-programming-diy.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "DIY Land Rover Key Programming Guide That Will Save You MONEY!"
+    },
+    "i8-q4jA--Fs": {
+      "transcribed": true,
+      "content_file": "land-rover-owners-beware-engine-noise.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Land Rover Owners Beware This Engine Noise!"
+    },
+    "aEJM7-W6w4g": {
+      "transcribed": true,
+      "content_file": "led-corner-light-upgrade-short.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Corner Lights to LED UPGRADE - Land Rover Discovery 4 / LR4 #Shorts"
+    },
+    "rxc_J5LTJrc": {
+      "transcribed": true,
+      "content_file": "led-door-turn-signal-upgrade.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Boring Blinkers? Easily Upgrade To LED - Land Rover Discovery 4 LR4"
+    },
+    "EilmMYGk968": {
+      "transcribed": true,
+      "content_file": "led-reversing-light-upgrade.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Bad Reversing Light? UPGRADE To LED on a Land Rover Discovery 4 / LR4"
+    },
+    "YTvfr6Fhvao": {
+      "transcribed": true,
+      "content_file": "living-with-a-land-rover-never-gets-boring.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Living with a Land Rover never gets boring - Land Rover Discovery 4 / LR4 #Shorts"
+    },
+    "WdWTl5GNdks": {
+      "transcribed": true,
+      "content_file": "living-with-a-land-rover-part-2.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Living with a Land Rover Part 2 - Land Rover Discovery 4 / LR4 #Shorts"
+    },
+    "8nEVp2iIQwM": {
+      "transcribed": true,
+      "content_file": "lr3-lr4-used-buying-tips-inspection.md",
+      "channel": "ShowCare",
+      "title": "LR3/LR4 Tips on Buying Used"
+    },
+    "CjfhywdHAic": {
+      "transcribed": true,
+      "content_file": "lr3-lr4-worth-buying-used.md",
+      "channel": "Mario V.",
+      "title": "Is it worth buying an old LR3 or LR4?"
+    },
+    "CWfm65Un2HM": {
+      "transcribed": true,
+      "content_file": "lr4-5l-v8-timing-chain-replacement.md",
+      "channel": "Lost Cause Ranch",
+      "title": "LR4 Timing Chain Failures - Complete Chain Replacement"
+    },
+    "JQlzcIgjxTc": {
+      "transcribed": true,
+      "content_file": "maintenance-costs-6-years-ownership.md",
+      "channel": "Torr Overland",
+      "title": "What Has My Discovery 4 / LR4 Actually Cost Me to Maintain Over 6 Years?"
+    },
+    "6ABuoGKNbbI": {
+      "transcribed": true,
+      "content_file": "must-have-off-road-mods-discovery-4.md",
+      "channel": "Torr Overland",
+      "title": "Must Have Discovery 4 Off-Road Mods"
+    },
+    "funb3Wf1WnU": {
+      "transcribed": true,
+      "content_file": "never-ever-5w30-oil-change.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "NEVER Ever 5W-30 on the Land Rover Discovery 4 LR4 Again!"
+    },
+    "4X3GZUxDWJw": {
+      "transcribed": true,
+      "content_file": "oil-filter-change-27-30-tdv6.md",
+      "channel": "Camping begins",
+      "title": "Land Rover Discovery 4 Oil & Filter Change (2.7 TDV6 / 3.0 SDV6)"
+    },
+    "7_dCa8V90sk": {
+      "transcribed": true,
+      "content_file": "oil-filter-service-under-40-pounds-oil-analysis.md",
+      "channel": "adamtwrm",
+      "title": "Oil and Filter Service on a Land Rover Discovery 4 SDV6 for Less Than \u00a340 + Oil Analysis"
+    },
+    "C6R6V8PuJbY": {
+      "transcribed": true,
+      "content_file": "rear-ladder-mp-4x4-install.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "High Quality Rear Ladder for a Land Rover Discovery 4 LR4"
+    },
+    "dzO31nR7rXs": {
+      "transcribed": true,
+      "content_file": "replace-bumped-brake-hoses-discovery-4.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "REPLACE Bumped Brake Hoses QUICKLY Land Rover Discovery 4 LR4"
+    },
+    "46CIhDObO1Q": {
+      "transcribed": true,
+      "content_file": "rock-sliders-mp-4x4-install.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "LR4 Rock Sliders: The Best Upgrade for Your Overland Build"
+    },
+    "WAxQUk-7IBE": {
+      "transcribed": true,
+      "content_file": "roof-rack-accessories-mp-4x4.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Ultimate Roof Rack Accessories for Your Land Rover LR4"
+    },
+    "0-syMIviEgQ": {
+      "transcribed": true,
+      "content_file": "sdv6-se-tech-buying-review.md",
+      "channel": "Condor Prestige",
+      "title": "Should you buy a 3.0 SDV6 D4?"
+    },
+    "_yXJ-eIJ1RM": {
+      "transcribed": true,
+      "content_file": "side-mirror-replacement.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "How to Replace Side Door Mirrors - Land Rover Discovery 4 / LR4"
+    },
+    "P5YF6hlAG-s": {
+      "transcribed": true,
+      "content_file": "snorkel-installation-terra-firma.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Snorkel Installation for Land Rover LR4: How To Keep Water Out of Your Engine"
+    },
+    "XK-nCs_taOY": {
+      "transcribed": true,
+      "content_file": "solar-panel-performance-app-review.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Endless Solar Power For Your Land Rover LR4 / Discovery 4"
+    },
+    "94rtkSMTL0k": {
+      "transcribed": true,
+      "content_file": "three-ways-fix-air-suspension.md",
+      "channel": "LR Live",
+      "title": "3 Ways to Fix Land Rover Air Suspension"
+    },
+    "AvPACAJDS8w": {
+      "transcribed": true,
+      "content_file": "timing-belt-big-service-sdv6.md",
+      "channel": "LR TIME",
+      "title": "Timing Belt and Big Service - D4 SDV6"
+    },
+    "8Yod0OtMPco": {
+      "transcribed": true,
+      "content_file": "timing-belt-gearbox-service-range-rover.md",
+      "channel": "The Car Edition Ltd",
+      "title": "Land Rover's Hidden Timing Belt \u2014 Range Rover Timing Belt and Gearbox Service"
+    },
+    "G9EpvR1AHuQ": {
+      "transcribed": true,
+      "content_file": "upgrade-discovery-4-windscreen-cowl.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Upgrade Your Discovery 4 Windscreen Cowl - Stop that Leaky Windscreen"
+    },
+    "WG2M33jxLUw": {
+      "transcribed": true,
+      "content_file": "why-i-chose-discovery-4-youtube-journey.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Why I Chose the Land Rover Discovery 4 & Started My YouTube Journey!"
+    },
+    "sJF7sDZR9rM": {
+      "transcribed": true,
+      "content_file": "xlifter-suspension-module-install.md",
+      "channel": "Not That Kind of a Channel",
+      "title": "Elevate Your Adventure: XLifter Meets Land Rover Discovery 4"
+    },
+    "aMTYtf7ES-Q": {
+      "transcribed": false,
+      "content_file": null,
+      "channel": "Jimmy Cogg",
+      "title": "D4 HSE SDV6 Catastrophic Engine Failure Rebuild",
+      "note": "transcription failed"
+    },
+    "6oFE90_BgpM": {
+      "transcribed": false,
+      "content_file": null,
+      "channel": "EnjoytheCars",
+      "title": "Land Rover Discovery 4 V6 Diesel Engine",
+      "note": "transcription failed"
+    },
+    "2XGwzVPrKxc": {
+      "transcribed": false,
+      "content_file": null,
+      "channel": "G4 outdoor",
+      "title": "D4 Tow Bar Install",
+      "note": "transcription failed"
+    },
+    "ocuaoW5WD44": {
+      "transcribed": true,
+      "content_file": null,
+      "channel": "The Gear Shift Crew",
+      "title": "Land Rover Discovery 4 Review",
+      "note": "transcript too short (694 chars)"
+    },
+    "pLng3UI2d5E": {
+      "transcribed": true,
+      "content_file": null,
+      "channel": "Cars.co.za",
+      "title": "Buying a D4 - common problems + parts costs",
+      "note": "transcript too short (941 chars)"
+    },
+    "346qghb-S3E": {
+      "transcribed": true,
+      "content_file": null,
+      "channel": "itsoleg",
+      "title": "LR Maintenance Total Over 20 Years",
+      "note": "transcript too short (502 chars)"
+    },
+    "RnPS8c16KN8": {
+      "transcribed": true,
+      "content_file": null,
+      "channel": "Automobile",
+      "title": "D4 Complete Turbo Change",
+      "note": "transcript too short (154 chars)"
+    },
+    "M2RuifdfFOU": {
+      "transcribed": true,
+      "content_file": null,
+      "channel": "Haynes Manuals",
+      "title": "D4 Know The Common Problems",
+      "note": "transcript too short (493 chars)"
+    },
+    "DOuf6BZC3vM": {
+      "transcribed": true,
+      "content_file": null,
+      "channel": "G4 outdoor",
+      "title": "D4 Dual Battery System",
+      "note": "transcript too short (10 chars)"
+    }
   }
 }
