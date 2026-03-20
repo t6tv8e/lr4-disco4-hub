@@ -53,6 +53,108 @@ For each video:
 | DOuf6BZC3vM | G4 outdoor | 658 | D4 Dual Battery System | electrical, overlanding | ⚪ transcript too short (10 chars) |
 | 2XGwzVPrKxc | G4 outdoor | 3K | D4 Tow Bar Install | towing, accessories | ❌ transcription failed |
 
+## @L663 / powerfulukltd — D4 DIY Channel (46 videos)
+
+All transcribed and processed. Comprehensive DIY guides covering maintenance, body panels, interior trim, accessories, and diagnostics.
+
+### Maintenance & Diagnostics
+
+| YouTube ID | Channel | Title | Topics |
+|---|---|---|---|
+| UcceyX1eJSc | powerfulukltd | Oil & filter change on D4 3.0 TDV6 SDV6 | oil-change, service |
+| xA_iPLtCEuI | powerfulukltd | How to change diesel fuel filter D3/D4 3.0 TDV6 | fuel-filter, service |
+| 57hL-edUU8g | powerfulukltd | D4 SDV6 Drive belt tensioner failure & repair | drive-belt, tensioner, repair |
+| Rs1FneVTW68 | powerfulukltd | How to change the cabin pollen filter D4 | pollen-filter, hvac |
+| fMUa_HcLZeU | powerfulukltd | D4 / RR Sport Oil Level Sensor | oil-level-sensor, diagnostics |
+| yJCVPpZcMPc | powerfulukltd | D4 3.0 SDV6 MAF Sensor Restricted Performance | maf-sensor, diagnostics, fault-codes |
+| rVT4KKjOo4c | powerfulukltd | D3 & D4 Air Suspension fault & relay replacement | air-suspension, relay, diagnostics |
+| b0oG1Da7kK0 | powerfulukltd | How to diagnose central locking problems D3/D4 | central-locking, diagnostics |
+
+### Body Panels & Exterior
+
+| YouTube ID | Channel | Title | Topics |
+|---|---|---|---|
+| LX3Dd7HWsj8 | powerfulukltd | How to Remove / Swap the Front Bumper D4 | bumper, removal |
+| i1Ojc0yTMMc | powerfulukltd | How to Remove Front Wheel Arches D4 | wheel-arch, removal |
+| 3-XmSKn5u2c | powerfulukltd | All you need to know about D4 headlights | headlights, xenon, upgrade |
+| RKvck9kz1eY | powerfulukltd | How to change the front grille D4 | grille, removal |
+| k0uTvbjdtPo | powerfulukltd | How to remove headlamps & front grille D4 | headlamps, grille, facelift |
+| K4yelHi_2Qg | powerfulukltd | Easy fit facelift for D4 / LR4 | facelift, cosmetic-upgrade |
+| GJN4tK7MNzw | powerfulukltd | Rear Tailgate Roof Spoiler Upgrade D3 & D4 | spoiler, tailgate, cosmetic |
+
+### Interior Trim & Disassembly
+
+| YouTube ID | Channel | Title | Topics |
+|---|---|---|---|
+| riU4g_lM55I | powerfulukltd | D4 Front Door Card Panel Removal | door-card, interior-trim |
+| 60OOkvGyUg4 | powerfulukltd | D4 Rear Door Card Interior Panel Removal | door-card, interior-trim |
+| Y4WuZTJPEM8 | powerfulukltd | How to remove the center dashboard D4 | dashboard, interior-trim |
+| gZHlqi0F8Pk | powerfulukltd | How to remove lower center console D4 | center-console, interior-trim |
+| 6oGEiiRSoSo | powerfulukltd | How to replace engine start stop switch D4 | start-stop-button, interior |
+| m8uRqDkSCKc | powerfulukltd | Fitting paddle shift extension D4 | paddle-shift, interior, upgrade |
+
+### Central Locking & Doors
+
+| YouTube ID | Channel | Title | Topics |
+|---|---|---|---|
+| xEjuvHBnuIM | powerfulukltd | Front Door Central Locking Actuator Replacement D3/D4 | central-locking, door-actuator |
+| L5P2253jcFI | powerfulukltd | Rear Door Central Locking / Window Regulator Replacement D3 & D4 | central-locking, window-regulator |
+
+### Tailgate
+
+| YouTube ID | Channel | Title | Topics |
+|---|---|---|---|
+| HIdxroXWLGY | powerfulukltd | Upper Tailgate Internal Manual Actuator Release Upgrade D3/D4 | tailgate, actuator, upgrade |
+| v-RvU35Gvmo | powerfulukltd | Rear Upper Tailgate Trunk Actuator Replacement D3 & D4 | tailgate, actuator, replacement |
+| SS-Yxnh98uA | powerfulukltd | How to Open Locked Tailgate With Failed Actuator From Inside | tailgate, emergency-release |
+
+### Key Fob & Security
+
+| YouTube ID | Channel | Title | Topics |
+|---|---|---|---|
+| CtxUaD8nMOQ | powerfulukltd | How to program new style key remote D4 using IID | key-programming, iid-tool |
+| dEv6abkEiMw | powerfulukltd | How to replace remote keyfob battery D4 | key-fob, battery |
+| yG89mtwUmqE | powerfulukltd | D4 / RR Sport Remote Keyfob Strip Down & Battery Upgrade | key-fob, strip-down |
+| hBIgp3QQ5zE | powerfulukltd | Can we add the Defender L663 Activity Key to D4? | activity-key, compatibility |
+
+### Towing
+
+| YouTube ID | Channel | Title | Topics |
+|---|---|---|---|
+| TtTxI61fZrQ | powerfulukltd | How to Install Removable Tow Hitch / Tow Bar D3/D4 | tow-bar, install |
+| xor-62-BkzA | powerfulukltd | D3/D4 Towbar Removal Tool / Tow Hitch Rebuild | tow-bar, removal, rebuild |
+
+### Roof Racks & Accessories
+
+| YouTube ID | Channel | Title | Topics |
+|---|---|---|---|
+| aV7AMmIrxA8 | powerfulukltd | How to fit extended Roof Rack Rails D3 & D4 | roof-rack, rails |
+| TMMrO41Rn0g | powerfulukltd | How to fit Roof Rack Cross Bars D3/D4 | roof-rack, cross-bars |
+| TEyTsEymllk | powerfulukltd | D3 & D4 Side MOLLE Plate Demo and Fitting | molle-plate, accessories |
+| 5eeQgFCQXGA | powerfulukltd | D3 & D4 Rear Ladder Fitting Instructions | rear-ladder, accessories |
+| TKwbk_kUSn0 | powerfulukltd | D4 Rear Light Lamp Guard Fitting VPLAP0009 | lamp-guards, accessories |
+| 50cKZmVqDV0 | powerfulukltd | Top 50 Upgrades & Accessories D3/D4 | accessories, upgrades |
+
+### Electrical & Misc
+
+| YouTube ID | Channel | Title | Topics |
+|---|---|---|---|
+| 7Hjl-3_FLmA | powerfulukltd | D3 & D4 Dashcam Hardwire Kit Install | dashcam, electrical |
+| DcSazMGpLuM | powerfulukltd | Activating Headlamp DRL function with IID tool D4 | drl, iid-tool, configuration |
+| mIs5s7JMsTg | powerfulukltd | D3 & D4 Fuel Burning Heater Webasto Thermo Top V | webasto, fbh, heating |
+| lpoIYgGjiSQ | powerfulukltd | How to change rear number plate lamp D3 & D4 | number-plate-light, bulb |
+| EozUWxYuxnY | powerfulukltd | D4 "phone not fitted" and how to connect your phone | bluetooth, phone, pairing |
+| 7VTAX3JNF9k | powerfulukltd | How to change Auto gear change link bush D3/D4 | gear-linkage, bush, transmission |
+
+### Comparison & Review
+
+| YouTube ID | Channel | Title | Topics |
+|---|---|---|---|
+| T2fBTD12YtQ | powerfulukltd | Defender L663 vs Discovery 4 - Side by Side Comparison | comparison, defender, review |
+| kK3OAwqa29U | powerfulukltd | Can We Fit Defender L663 18" Steel Wheels on D4? | wheels, fitment, defender |
+
+---
+
 ## TIER 3 — Overland/Build
 
 | YouTube ID | Channel | Views | Title | Topics | Processed |
@@ -68,3 +170,33 @@ For each video:
 - ⚪ = transcribed but transcript too short/unusable
 - ❌ = transcription failed (no captions, Deepgram error)
 - ⏳ = not yet processed
+
+## Coverage Analysis
+
+The existing 52 videos (all from "Not That Kind of a Channel") are heavy on:
+- ✅ LED upgrades and cosmetics
+- ✅ Accessories (roof racks, rock sliders, solar, snorkel)
+- ✅ Basic maintenance DIY
+- ✅ Air suspension quick fixes
+
+Multi-channel videos add:
+- 🆕 **Buying guides** — what to look for, test drive tips, pricing
+- 🆕 **Timing belt/chain** — the single most critical D4 maintenance topic
+- 🆕 **Engine failure stories** — cautionary tales with rebuild details
+- 🆕 **Real ownership costs** — multi-year data from actual owners
+- 🆕 **Turbo service** — not covered at all currently
+- 🆕 **Electrical diagnostics** — no-start, battery issues from other perspectives
+- 🆕 **Air suspension deep dives** — technical explanations, not just quick fixes
+- 🆕 **Multi-creator perspectives** — builds trust, not just one person's opinion
+
+@L663 / powerfulukltd adds (46 videos):
+- 🆕 **Central locking** — full diagnostic + repair series (diagnose, front actuator, rear actuator)
+- 🆕 **Tailgate actuators** — complete trilogy (manual release upgrade, replacement, emergency open)
+- 🆕 **Interior trim disassembly** — door cards, dashboard, center console step-by-step
+- 🆕 **Facelift conversion** — bumper swap, headlights, grille, full front-end upgrade
+- 🆕 **Key fob** — battery, strip-down, IID programming, activity key compatibility
+- 🆕 **Towing** — removable hitch install, seized tow bar rebuild
+- 🆕 **Diagnostics** — MAF sensor, air suspension relay, oil level sensor, restricted performance
+- 🆕 **Webasto fuel burning heater** — auxiliary heating system explained
+- 🆕 **IID tool configuration** — DRL activation, key programming
+- 🆕 **Defender cross-compatibility** — wheels, activity key testing
