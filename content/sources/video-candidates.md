@@ -155,6 +155,205 @@ All transcribed and processed. Comprehensive DIY guides covering maintenance, bo
 
 ---
 
+## LR TIME Channel (122 videos found — professional workshop, Germany/Europe)
+
+Channel ID: UC_WI2JddpJlbubwii_jIYWQ
+
+### Already Processed (25 total — 5 prior + 20 new)
+
+| YouTube ID | Title | Topics | Content File |
+|---|---|---|---|
+| ayqgNx9QyM4 | Air Suspension Fix - D3/LR4 | air-suspension, repair | ✅ air-suspension-front-valve-rebuild.md |
+| AvPACAJDS8w | Timing Belt and Big Service - D4 SDV6 | timing-belt, engine-service | ✅ timing-belt-big-service-sdv6.md |
+| 6vhYXutMSDc | Restricted Performance Issue Fixed - LR4 | diagnostics, restricted-performance | ✅ (prior) |
+| ZVtWI8p953k | ZF 8HP Transmission Oil Change - D4 | transmission, oil-change | ✅ zf-8hp-transmission-oil-change-discovery-4.md |
+| 6UojaXtoLHY | DIY Transmission Shudder Fix - ZF 6HP | transmission, shudder | ✅ zf-6hp-transmission-shudder-fix-mechatronic-seals.md |
+| Uvh6d0pKEgY | 9 things I did not know before buying D4/LR4 | buying-guide, ownership | ✅ 9-things-did-not-know-discovery-4.md |
+| -KpT99763_Y | How to buy a Land Rover Discovery - LR4 | buying-guide | ✅ how-to-buy-discovery-4.md |
+| Q4NeJrbor4s | No more 5W-30 - Transfer Case and Diff oil change | oil-change, transfer-case | ✅ transfer-case-diff-oil-change-5w40-conversion.md |
+| T4k9-_PzFN8 | Workshop Failed - Major Oil Leak - D4/LR4 | oil-leak, repair | ✅ workshop-failed-major-oil-leak-d4.md |
+| lRZ37buT4pk | How to replace the oil pump - 3.0L SDV6 LR4 | oil-pump, engine | ✅ oil-pump-replacement-sdv6-discovery-4.md |
+| 9NrrTLJqm-Q | D4 - Is it really an upgrade from a LR3? | comparison, review | ✅ discovery-4-vs-discovery-3-upgrade-comparison.md |
+| zDqd6mmz0l8 | LR3 beats LR4 in five points - D3 vs D4 | comparison | ✅ discovery-3-beats-discovery-4-five-points.md |
+| kV8dgaUAAPs | D4 - very clever modifications - cool rig | modifications, overland | ✅ discovery-4-clever-modifications-overland-build.md |
+| ZSpmG7wIovo | Oil Level Sensor Repair - LR4 | oil-level-sensor, repair | ✅ discovery-4-oil-level-sensor-repair.md |
+| DbPh-lMqOII | DIY Suspension Bushings + Alignment - D4 | suspension, bushings, alignment | ✅ discovery-4-diy-suspension-bushings-alignment.md |
+| tw6s0ei89-w | FBH Diverter Valve Explained - D4 | fbh, heating | ✅ fbh-diverter-valve-explained-d4.md |
+| isAemA88d7A | 8HP Shifter Knob Failure + FBH Upgrade - D4 | transmission, fbh | ✅ 8hp-shifter-knob-failure-fbh-upgrade-d4.md |
+| fy_0ym793-8 | Basic diagnostic in 5 steps - LR3/LR4 | diagnostics | ✅ basic-diagnostic-five-steps-d3-d4.md |
+| r7j4cLWYZic | Rear Brake Service - D3 and D4 | brakes, service | ✅ rear-brake-service-d3-d4.md |
+| eUSUCN4zi34 | Electric parking brake service - D3/LR3/LR4 | parking-brake, service | ✅ electric-parking-brake-service-d3-d4.md |
+| ZdS5PDCwNlQ | TDV6 most essential maintenance: Timing belt and oil pump | timing-belt, oil-pump | ✅ tdv6-timing-belt-oil-pump-replacement.md |
+| 6LnbbbWW_A4 | Air Suspension Fixed / S5-E38 | air-suspension, compressor | ✅ discovery-4-air-suspension-compressor-replacement.md |
+| XiYWQjJZiM4 | EGR valve and water pump replacement - D3/LR3/LR4 | egr, water-pump | ✅ egr-valve-water-pump-replacement-d3.md |
+| cGszNkyqR2E | Avoid Maintenance Backlog - D3/LR3/LR4 | maintenance | ✅ avoid-maintenance-backlog-d3.md |
+| ZDzb3RGxOPo | Intake Leak Test - DIY Smoke Generator - D3/LR3/LR4 | diagnostics, intake | ✅ intake-leak-test-diy-smoke-generator-d3.md |
+
+### Queued — Timing Belt / Oil Pump (3)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| FqWRhZbNWNU | Discovery 3 Oil Pump Full DIY Install | oil-pump, engine |
+| z6sRSSltG8I | Epic Oil pump test and compare TDV6 | oil-pump, comparison |
+| nXFY35oKKss | OEM or Aftermarket Oil Pump - D3/4 #shorts | oil-pump |
+
+### Queued — Engine Rebuild Series (19)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| WudgwL8uY0I | Devastating Damage! D4 SDV6 Engine Teardown / S6-EP04 | engine-teardown |
+| fF6pCyHnY_g | Bought a Failed-Engine D4 in Mint Condition / S5-Ep8 | engine-failure, buying |
+| eI4xmTFNvAU | Body lift on dead D4 SDV6 Gen2 / S6-EP03 | engine, body-off |
+| AjwSNkcgSCM | Failed Engine D4 Body-Off / S5-Ep13 | engine, body-off |
+| zJzTCdLuZIc | Dead Engine Removal from LR4 / S5-Ep14 | engine-removal |
+| AX1t6Y5md-A | Bought Failed Engine LR4 and Fixed it / S5-E35 | engine-failure, repair |
+| SWkKxZVFGdA | DIESEL ENGINE REBUILD - WILL IT START? LR4 SDV6 / S4-Ep18 | engine-rebuild |
+| sYT8945AZbs | ALL FINISHED after ENGINE REBUILD - D4 SDV6 2016 / S4-Ep19 | engine-rebuild |
+| MKYovvWWym0 | Complete engine failure - D3/LR3 - Episode 1 | engine-failure |
+| rtzeyvaEhc4 | TDV6 complete engine rebuild - D3/LR3 | engine-rebuild |
+| rgxoiPleVyE | Diesel Engine Rebuild Start to Finish / S4-Ep9 | engine-rebuild |
+| v3moekbW6z8 | Worst Diesel Engine on the Planet? TDV6 SDV6 / S4-Ep6 | engine, review |
+| jvYKfGxnk-4 | Not the worst Diesel Engine? TDV6 SDV6 / S4-Ep24 | engine, review |
+| rpUZoD5_Kjs | Snapped Crankshaft After Only 40000 Miles / S4-Ep13 | crankshaft, failure |
+| ZbBot1r15lY | What to Keep or Replace - Engine Rebuild / S4-Ep14 | engine-rebuild, parts |
+| ye7zfZ-rAGQ | SDV6 3.0L - Diesel Engine Assembly / S4-Ep17 | engine-assembly |
+| _k3jD9IUy8I | Short Block Assembly - Piston Install TDV6 / S4-Ep35 | engine-assembly |
+| KcubZKCwvEE | Crankshaft Installation SDV6 / 306DT / S6-EP07 | engine-assembly |
+| pD9_d4uJPq8 | Complicated crankshaft install - Discovery TDV6 | engine-assembly |
+
+### Queued — Oil / Lubrication (5)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| YGvQAbM_YQY | Wrong engine oil over 6 Years - OMG | oil, maintenance-mistake |
+| 5N62JJwyAU4 | Unexpected Huge Oil Leak Fixed - TDV6 / S5-Ep4 | oil-leak, repair |
+| pHYJsJb-tVQ | Dumbest Oil Leak Ever Fixed | oil-leak |
+| 604513GUKws | How to install an oil pressure gauge | oil-pressure, diagnostics |
+| nS0qIqPskts | Rebuilding a 3.0L SDV6 Engine / S6-EP18 | engine-rebuild |
+
+### Queued — Transmission / Drivetrain (7)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| QrwjnvmYXcM | Drive Line Vibrations - ZF 6HP26 Repair - D3 | transmission, vibration |
+| wdS2wc48gA4 | How to replace Halfshafts - D3/4 | halfshafts, drivetrain |
+| znHMQbN6Its | Front differential pinion seal - D3/LR3/LR4 | differential, seal |
+| 4_DI6LZpk3Q | Discovery Restoration - Transmission Install / S4-Ep32 | transmission |
+| n7qtB6vF7Gg | ZF 6HP - Air Compressor - Park Brake / S4-Ep33 | transmission, multi-repair |
+| IQdxCXm3rgM | Stupid Propshaft Repair / S4-Ep49 | propshaft |
+| o70e_3QioZI | Things about your LR driveshaft (propshaft) | driveshaft |
+
+### Queued — Air Suspension (1)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| M9PsOZSgJe8 | Air Suspension Problem Fixed | air-suspension |
+
+### Queued — Brakes / Steering (8)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| Bzz4W3OU1zM | Power Steering Fluid Change - LR3 LR4 | power-steering, service |
+| HtiPTDjNPmM | Power Steering kaputt - Repair / S5-Ep7 | power-steering, repair |
+| Y6yEq9oETh8 | DSC and HDC Fault Fixed - EPB Service | dsc, hdc, brakes |
+| KEKsUBTtuDU | How to Fix the Electric Park Brake / S5-Ep6 | parking-brake |
+| -tCIU8ANNzE | How we replace brake lines - D3 | brake-lines |
+| MfXb24Ln7cE | All Terrain tires, Brembo Brakes, Wheel Spacers - D3 | brakes, tyres, wheels |
+| sGZLjeNgB1I | Suspension Clonk & Steering Shake FIXED! S6-EP43 | suspension, steering |
+| DcbPL1wbOIQ | D3 DSC problem resolved | dsc, diagnostics |
+
+### Queued — Cooling / EGR / Turbo (5)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| Tj5ojmUHU0A | Coolant Leak and EGR Fixed - D3 / S4-Ep20 | coolant, egr |
+| vbBscBFpH_s | How to check glow plugs - D3/4 TDV6 | glow-plugs |
+| 60vAmku267g | How to rebuild a turbo charger | turbo, rebuild |
+| FD8CUQQEdog | How to replace intercooler hoses - D3 | intercooler |
+| s5iXchE-RV4 | Intake Manifold Carbon Removal / S4-Ep30 | intake, carbon |
+
+### Queued — Fuel System / Heater (6)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| lVNKbrv7SWA | D3 Fuel Burning Heater Service | fbh, service |
+| y4R7oWn7aaM | Is the diesel heater (FBH) any good? D3/LR3 | fbh, review |
+| czzgHPCyJ8g | Fixing Our Discovery Heater / S5-EP50 | heater, repair |
+| Q8Q1vnPbQRw | High Pressure Fuel Pump replacement - D3 | fuel-pump |
+| SeIk9dtPJIE | Low pressure fuel pump diagnosis - D3 | fuel-pump, diagnostics |
+| S9yaVGebTBk | Brakes and FBH Remote Installation | fbh, brakes |
+
+### Queued — Electrical / Diagnostics (3)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| 7qAGWBzDRco | Fix Central Door Lock - D3/4 / S4-Ep8 | central-locking |
+| Qn9hEkVbN9E | Easy LR wiring: red is black and plus is minus | wiring, electrical |
+| NQLyuuLigfQ | Crankshaft Sensor and Trigger Wheel - Fault P0336 / S4-Ep50 | sensor, fault-codes |
+
+### Queued — Suspension / Bushings (5)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| IBoUpmvzZPk | DIY Suspension Fix of 300K KM D3 / S6-EP02 | suspension, repair |
+| eKAc3ifRMwA | D3 rear suspension fix | suspension |
+| f8SB7aa8jAM | How to level the suspension height - D3 | suspension, leveling |
+| YPHJP5GfVvQ | Replace suspension bushings - D3/LR3 / S4-Ep2 | bushings |
+| 2rKdbuqIJ7g | Replace suspension bushings Part 2 - D3/LR4 / S4-Ep3 | bushings |
+
+### Queued — Body / Chassis / Restoration (5)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| TLmG8xjA0q0 | Fixed Water Leaking in Footwell | water-leak, body |
+| htgdYYxKqS4 | Chassis Rebuild After Years of Neglect - 2008 D3 / S6-EP31 | chassis, restoration |
+| YgbivA2hAlA | Full Restoration after 17 Years / S4-Ep22 | restoration |
+| Kbl6CD3BGN4 | How we undercoated our D3/LR3 | undercoat, rust-prevention |
+| 0C0hVjGInR8 | Huge Frame & Engine Restoration Complete / S4-Ep41 | restoration |
+
+### Queued — Buying Guide / Review (7)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| ChnHBg4w3pg | Range Rover or Discovery - L405 LR3 LR4 / S5-Ep5 | comparison |
+| BA5pnMfAZLM | Four things we will never change on our LR | ownership, review |
+| VGP0zkf_nUw | D3/LR3 - Typical Problems And Why We Love It | common-problems, review |
+| DhDPV956Uqw | Bought a Dead Mall-Crawler Offroad Build | buying, build |
+| sUXqjXJ85cw | Bought the Cheapest D3 in Germany / S6-EP20 | buying |
+| TcM8c-8RvNw | Bought a Land Rover for 1000 EUR - Worth Saving? | buying, review |
+| i1ic4tAQpu4 | Engine Rebuild - While We're In There (S6-EP52) | engine-rebuild |
+
+### Queued — Overlanding / Mods / Accessories (10)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| xHK3YNrXJG0 | How to install a snorkel - D3/LR3/LR4 | snorkel |
+| HhMsKMXfsTk | Snorkel Intake - Forward or Backward? TDV6 | snorkel |
+| RsLcT220AVU | DIY winch mount for D3/4 | winch, fabrication |
+| 0vXlsoNRJD8 | DIY Drawer for Overlanding - D3 | drawer, overlanding |
+| PT3qnUWmL1o | DIY sleeping platform and cargo barrier | sleeping-platform |
+| 76LCD-4DvEs | 3D printing accessories for D3/LR3 | 3d-printing, accessories |
+| orQmO-gUy3g | CB Radio for Her Land Rover Discovery | cb-radio |
+| j0y5AEhYOMo | Diesel Heater For Rooftop Tent | heater, overlanding |
+| u7wIWQ_EuHs | Overlanding in the western alps - D3 Part 2 | overlanding, travel |
+| 2KMSJbh3-pQ | Overlanding in the Alps - Col du Parpaillon | overlanding, travel |
+
+### Queued — General / Multi-repair (9)
+
+| YouTube ID | Title | Topics |
+|---|---|---|
+| 0hSoHO9ZNzA | Repairing Fabian's D3 - Oil Cooler/Radiator / S5-EP42 | oil-cooler, radiator |
+| ZnRWBriX3Ag | Clunking Noise Fixed! / S5-EP46 | noise, diagnostics |
+| hjRxw9P5ztM | Rescue Mission Complete - 2005 D3 | restoration |
+| oA4uRyhXL-E | Full Overhaul of D3 / S4-Ep21 | overhaul |
+| qOfCDm7i_sI | Wheel bearing D3/LR3 | wheel-bearing |
+| sSoDLaB3oUU | Drive shaft replacement - D3/LR3 | driveshaft |
+| sLursTOA7Nk | This part should not fail - not even on a LR | repair |
+| chsGDZ3pZUY | Three Biggest Sins when Driving a LR | tips, driving |
+| AfPaIUiVNL4 | After 6 Months of Work: Will It Drive? 20-Year-Old Discovery (S7-EP6) | restoration |
+
+---
+
 ## TIER 3 — Overland/Build
 
 | YouTube ID | Channel | Views | Title | Topics | Processed |
@@ -200,3 +399,18 @@ Multi-channel videos add:
 - 🆕 **Webasto fuel burning heater** — auxiliary heating system explained
 - 🆕 **IID tool configuration** — DRL activation, key programming
 - 🆕 **Defender cross-compatibility** — wheels, activity key testing
+
+LR TIME adds (122 videos found, 20 processed so far):
+- 🆕 **Complete engine rebuild series** — 19 videos covering TDV6/SDV6 teardown through assembly
+- 🆕 **Oil pump replacement** — step-by-step, OEM vs aftermarket, casting identification
+- 🆕 **Buying guides** — how to buy D4/LR4, 9 things owners wish they knew, D3 vs D4 comparison
+- 🆕 **Transfer case & diff service** — 5W-30 vs 5W-40 debate with data
+- 🆕 **FBH (Fuel Burning Heater)** — diverter valve, service, remote installation, upgrade
+- 🆕 **8HP transmission** — shifter knob failure, oil change (already processed)
+- 🆕 **Electric parking brake** — full service procedure D3/D4
+- 🆕 **Suspension bushings** — complete replacement with DIY alignment
+- 🆕 **Oil level sensor** — factory assembly error, full repair procedure
+- 🆕 **Brake service** — rear brakes, brake lines, power steering
+- 🆕 **EGR/turbo/cooling** — valve replacement, turbo rebuild, intercooler hoses, glow plugs
+- 🆕 **Chassis restoration** — undercoating, frame rebuild, full body-off restoration
+- 🆕 **Overlanding builds** — sleeping platforms, drawers, winch mounts, snorkel installation
