@@ -1,16 +1,8 @@
+import { Suspense } from "react";
 import { getAllCandidateIssues } from "@/lib/content";
+import { categorizeIssue } from "@/lib/issue-categories";
+import { classifySeverity } from "@/lib/severity";
 import IssueList from "./issue-list";
-
-function categorizeIssue(slug: string): string {
-  if (slug.includes("air-suspension") || slug.includes("suspension-drop")) return "Suspension";
-  if (slug.includes("engine") || slug.includes("cold-start") || slug.includes("ticking") || slug.includes("whistling")) return "Engine";
-  if (slug.includes("battery") || slug.includes("alternator") || slug.includes("gearbox")) return "Electrical";
-  if (slug.includes("coolant")) return "Cooling";
-  if (slug.includes("brake") || slug.includes("master-brake")) return "Brakes";
-  if (slug.includes("windscreen") || slug.includes("cowl") || slug.includes("intake-hose") || slug.includes("sunroof")) return "Body & Water Ingress";
-  if (slug.includes("mirror") || slug.includes("armrest") || slug.includes("steering-wheel") || slug.includes("rain-sensor")) return "Interior & Electrical";
-  return "Other";
-}
 
 export const metadata = {
   title: "Known Issues",
@@ -29,13 +21,16 @@ export default function KnownIssuesPage() {
       for (const f of m.mention.fixes ?? []) allFixes.add(f);
       latestStatus = m.mention.report_status;
     }
+    const symptomsArr = Array.from(allSymptoms);
+    const fixesArr = Array.from(allFixes);
     return {
       slug: issue.slug,
       category: categorizeIssue(issue.slug),
-      symptoms: Array.from(allSymptoms),
-      fixes: Array.from(allFixes),
+      symptoms: symptomsArr,
+      fixes: fixesArr,
       latestStatus,
       mentionCount: issue.mentions.length,
+      severity: classifySeverity(issue.slug, symptomsArr, fixesArr),
     };
   });
 
@@ -51,7 +46,9 @@ export default function KnownIssuesPage() {
         </p>
       </div>
 
-      <IssueList issues={issueData} />
+      <Suspense fallback={<div className="text-sm text-[var(--foreground-muted)]">Loading filters...</div>}>
+        <IssueList issues={issueData} />
+      </Suspense>
     </div>
   );
 }

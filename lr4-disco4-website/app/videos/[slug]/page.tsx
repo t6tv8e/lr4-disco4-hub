@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllVideos, renderMarkdown } from "@/lib/content";
+import { formatSlug } from "@/lib/format";
 import type { Metadata } from "next";
 
 interface Props {
@@ -86,7 +87,7 @@ export default async function VideoPage({ params }: Props) {
                 <Link key={i} href={`/known-issues/${issueSlug}`} className="neu-card-sm p-4 block hover:green-glow transition-shadow group">
                   <div className="flex items-start justify-between gap-3 mb-2">
                     <h3 className="font-medium text-sm group-hover:text-[var(--lr-green-bright)] transition-colors">
-                      {issueSlug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
+                      {formatSlug(issueSlug)}
                     </h3>
                     <span className="badge badge-neutral text-xs shrink-0">{mention.report_status}</span>
                   </div>
@@ -137,7 +138,7 @@ export default async function VideoPage({ params }: Props) {
               return (
                 <Link key={i} href={`/guides/${guideSlug}`} className="neu-card-sm p-4 block hover:green-glow transition-shadow group">
                   <h3 className="font-medium text-sm mb-1 group-hover:text-[var(--lr-green-bright)] transition-colors">
-                    {guideSlug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
+                    {formatSlug(guideSlug)}
                   </h3>
                   <p className="text-xs text-[var(--foreground-muted)]">{mention.summary}</p>
                 </Link>

@@ -1,14 +1,12 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllCandidateIssues } from "@/lib/content";
+import { formatSlug } from "@/lib/format";
+import { classifySeverity, SEVERITY_CONFIG } from "@/lib/severity";
 import type { Metadata } from "next";
 
 interface Props {
   params: Promise<{ slug: string }>;
-}
-
-function formatSlug(slug: string): string {
-  return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
 export async function generateStaticParams() {
@@ -86,6 +84,14 @@ export default async function IssueDetailPage({ params }: Props) {
         <h1 className="text-xl font-bold mt-3 mb-2">{formatSlug(slug)}</h1>
         <p className="text-sm text-[var(--foreground-muted)]">{bestSummary}</p>
         <div className="flex gap-2 mt-3">
+          {(() => {
+            const severity = classifySeverity(slug, Array.from(allSymptoms), Array.from(allFixes));
+            return (
+              <span className={`badge ${SEVERITY_CONFIG[severity].className}`}>
+                {SEVERITY_CONFIG[severity].label}
+              </span>
+            );
+          })()}
           {latestStatus && <span className="badge badge-neutral">{latestStatus}</span>}
           <span className="badge badge-green">
             {issue.mentions.length} report{issue.mentions.length !== 1 ? "s" : ""}

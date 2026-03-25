@@ -1,14 +1,11 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllCandidateGuides } from "@/lib/content";
+import { formatSlug } from "@/lib/format";
 import type { Metadata } from "next";
 
 interface Props {
   params: Promise<{ slug: string }>;
-}
-
-function formatSlug(slug: string): string {
-  return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
 export async function generateStaticParams() {

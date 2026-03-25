@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getAllCandidateIssues, getAllCandidateGuides, getAllVideos } from "@/lib/content";
+import { formatSlug } from "@/lib/format";
 
 const CATEGORY_MAP: Record<string, { label: string; description: string }> = {
   "air-suspension": { label: "Air Suspension", description: "Drops, leaks, compressor, valve blocks" },
@@ -80,7 +81,7 @@ export default function Home() {
             {topSymptoms.map(([symptom]) => (
               <Link
                 key={symptom}
-                href="/known-issues"
+                href={`/known-issues?symptom=${encodeURIComponent(symptom)}`}
                 className="badge badge-neutral hover:border-[var(--lr-green)] hover:text-[var(--foreground)] transition-colors cursor-pointer"
               >
                 {symptom}
@@ -103,7 +104,7 @@ export default function Home() {
             const catIssues = grouped.get(key) ?? [];
             const totalMentions = catIssues.reduce((sum, i) => sum + i.mentions.length, 0);
             return (
-              <Link key={key} href="/known-issues" className="neu-card-sm p-5 hover:green-glow transition-shadow group">
+              <Link key={key} href={`/known-issues?category=${encodeURIComponent(label)}`} className="neu-card-sm p-5 hover:green-glow transition-shadow group">
                 <div className="flex items-center justify-between mb-2">
                   <h3 className="font-semibold text-sm group-hover:text-[var(--lr-green-bright)] transition-colors">
                     {label}
@@ -141,7 +142,7 @@ export default function Home() {
                 className="neu-card-sm p-4 hover:green-glow transition-shadow group"
               >
                 <h3 className="font-medium text-sm mb-1 group-hover:text-[var(--lr-green-bright)] transition-colors">
-                  {guide.slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
+                  {formatSlug(guide.slug)}
                 </h3>
                 <p className="text-xs text-[var(--foreground-muted)] line-clamp-2">
                   {bestSummary}
@@ -153,6 +154,18 @@ export default function Home() {
             );
           })}
         </div>
+      </section>
+
+      {/* Pre-purchase CTA */}
+      <section className="neu-card p-6 text-center">
+        <h2 className="text-lg font-semibold mb-2">Buying a Discovery 4?</h2>
+        <p className="text-sm text-[var(--foreground-muted)] mb-4 max-w-md mx-auto">
+          Check our pre-purchase checklist — {issues.length > 30 ? "35+" : issues.length} critical items
+          to inspect before you buy, with links to detailed issue pages.
+        </p>
+        <Link href="/pre-purchase-checklist" className="neu-btn px-5 py-2.5 text-sm font-medium text-[var(--lr-green-bright)]">
+          View Pre-Purchase Checklist
+        </Link>
       </section>
 
       {/* Stats bar */}

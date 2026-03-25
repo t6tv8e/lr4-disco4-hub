@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
+import NavLinks from "./components/nav-links";
+import Footer from "./components/footer";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -22,23 +24,6 @@ export const metadata: Metadata = {
     "Community-driven knowledge base for Land Rover Discovery 4 / LR4 owners. Known issues, fixes, guides, and tips.",
 };
 
-function NavLink({
-  href,
-  children,
-}: {
-  href: string;
-  children: React.ReactNode;
-}) {
-  return (
-    <Link
-      href={href}
-      className="px-3 py-1.5 rounded-lg text-sm text-[var(--foreground-muted)] hover:text-[var(--foreground)] hover:bg-[var(--bg-raised)] transition-colors"
-    >
-      {children}
-    </Link>
-  );
-}
-
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -59,15 +44,11 @@ export default function RootLayout({
                 Disco4 Hub
               </span>
             </Link>
-            <div className="flex items-center gap-1">
-              <NavLink href="/known-issues">Issues</NavLink>
-              <NavLink href="/guides">Guides</NavLink>
-              <NavLink href="/videos">Videos</NavLink>
-              <NavLink href="/channels">Channels</NavLink>
-            </div>
+            <NavLinks />
           </div>
         </nav>
         <main className="mx-auto max-w-6xl px-6 py-8">{children}</main>
+        <Footer />
       </body>
     </html>
   );

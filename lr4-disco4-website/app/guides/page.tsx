@@ -1,9 +1,6 @@
 import Link from "next/link";
 import { getAllCandidateGuides } from "@/lib/content";
-
-function formatSlug(slug: string): string {
-  return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
-}
+import { formatSlug } from "@/lib/format";
 
 function categorizeGuide(slug: string): string {
   if (slug.includes("suspension") || slug.includes("xlifter") || slug.includes("ko2") || slug.includes("tyre")) return "Suspension & Tyres";

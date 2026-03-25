@@ -1,7 +1,10 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
+import { useSearchParams, usePathname } from "next/navigation";
+import { formatSlug } from "@/lib/format";
+import { SEVERITY_CONFIG, type Severity } from "@/lib/severity";
 
 interface IssueData {
   slug: string;
@@ -10,14 +13,26 @@ interface IssueData {
   fixes: string[];
   latestStatus: string;
   mentionCount: number;
-}
-
-function formatSlug(slug: string): string {
-  return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+  severity: Severity;
 }
 
 export default function IssueList({ issues }: { issues: IssueData[] }) {
-  const [activeCategory, setActiveCategory] = useState<string | null>(null);
+  const searchParams = useSearchParams();
+  const pathname = usePathname();
+
+  const [searchText, setSearchText] = useState(searchParams?.get("symptom") ?? "");
+  const [activeCategory, setActiveCategory] = useState<string | null>(
+    searchParams?.get("category") ?? null
+  );
+
+  // Sync state back to URL (shallow)
+  useEffect(() => {
+    const params = new URLSearchParams();
+    if (searchText) params.set("symptom", searchText);
+    if (activeCategory) params.set("category", activeCategory);
+    const qs = params.toString();
+    window.history.replaceState(null, "", qs ? `${pathname}?${qs}` : pathname);
+  }, [searchText, activeCategory, pathname]);
 
   // Get categories sorted alphabetically, with counts
   const categoryCounts = new Map<string, number>();
@@ -29,9 +44,17 @@ export default function IssueList({ issues }: { issues: IssueData[] }) {
   );
 
   // Filter issues
-  const filtered = activeCategory
-    ? issues.filter((i) => i.category === activeCategory)
-    : issues;
+  const filtered = issues.filter((issue) => {
+    if (activeCategory && issue.category !== activeCategory) return false;
+    if (searchText.trim()) {
+      const q = searchText.toLowerCase();
+      const matchesSymptom = issue.symptoms.some((s) => s.toLowerCase().includes(q));
+      const matchesSlug = issue.slug.toLowerCase().includes(q);
+      const matchesFixes = issue.fixes.some((f) => f.toLowerCase().includes(q));
+      if (!matchesSymptom && !matchesSlug && !matchesFixes) return false;
+    }
+    return true;
+  });
 
   // Group filtered issues by category
   const grouped = new Map<string, IssueData[]>();
@@ -41,8 +64,21 @@ export default function IssueList({ issues }: { issues: IssueData[] }) {
   }
   const sortedCategories = Array.from(grouped.keys()).sort((a, b) => a.localeCompare(b));
 
+  const hasFilters = searchText.trim() !== "" || activeCategory !== null;
+
   return (
     <>
+      {/* Search input */}
+      <div className="neu-inset p-3">
+        <input
+          type="text"
+          placeholder="Search symptoms, fixes, or issues..."
+          value={searchText}
+          onChange={(e) => setSearchText(e.target.value)}
+          className="w-full bg-transparent text-sm text-[var(--foreground)] placeholder-[var(--foreground-dim)] outline-none"
+        />
+      </div>
+
       {/* Category filter pills */}
       <div className="flex flex-wrap gap-2">
         <button
@@ -70,6 +106,22 @@ export default function IssueList({ issues }: { issues: IssueData[] }) {
         ))}
       </div>
 
+      {/* Active filter status */}
+      {hasFilters && (
+        <div className="flex items-center gap-3 text-xs text-[var(--foreground-muted)]">
+          <span>{filtered.length} result{filtered.length !== 1 ? "s" : ""}</span>
+          <button
+            onClick={() => {
+              setSearchText("");
+              setActiveCategory(null);
+            }}
+            className="text-[var(--lr-green-bright)] hover:underline cursor-pointer"
+          >
+            Clear filters
+          </button>
+        </div>
+      )}
+
       {/* Issue list */}
       {sortedCategories.map((cat) => {
         const catIssues = grouped.get(cat)!;
@@ -90,6 +142,9 @@ export default function IssueList({ issues }: { issues: IssueData[] }) {
                       {formatSlug(issue.slug)}
                     </h3>
                     <div className="flex gap-2 shrink-0">
+                      <span className={`badge ${SEVERITY_CONFIG[issue.severity].className} text-xs`}>
+                        {SEVERITY_CONFIG[issue.severity].label}
+                      </span>
                       {issue.latestStatus && (
                         <span className="badge badge-neutral text-xs">{issue.latestStatus}</span>
                       )}

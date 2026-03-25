@@ -170,3 +170,40 @@ export function getAllCandidateGuides(): {
     .map(([slug, mentions]) => ({ slug, mentions }))
     .sort((a, b) => b.mentions.length - a.mentions.length);
 }
+
+// --- Fault codes ---
+
+export interface FaultCodeEntry {
+  code: string;
+  issues: { slug: string; symptoms: string[]; summary: string }[];
+}
+
+/** Collect all fault codes across all videos, mapped to their issues */
+export function getAllFaultCodes(): FaultCodeEntry[] {
+  const map = new Map<string, Map<string, { symptoms: string[]; summary: string }>>();
+
+  for (const video of getAllVideos()) {
+    for (const mention of video.frontmatter.issue_mentions ?? []) {
+      const issueSlug = mention.issue_slug ?? mention.candidate_issue;
+      if (!issueSlug) continue;
+      for (const fc of mention.fault_codes ?? []) {
+        const normalized = fc.toUpperCase().trim();
+        if (!map.has(normalized)) map.set(normalized, new Map());
+        const issueMap = map.get(normalized)!;
+        if (!issueMap.has(issueSlug)) {
+          issueMap.set(issueSlug, {
+            symptoms: mention.symptoms ?? [],
+            summary: mention.summary,
+          });
+        }
+      }
+    }
+  }
+
+  return Array.from(map.entries())
+    .map(([code, issueMap]) => ({
+      code,
+      issues: Array.from(issueMap.entries()).map(([slug, data]) => ({ slug, ...data })),
+    }))
+    .sort((a, b) => a.code.localeCompare(b.code));
+}
